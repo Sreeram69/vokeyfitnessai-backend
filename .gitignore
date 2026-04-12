@@ -3,6 +3,7 @@
 .env.development
 .env.production
 *.env*
+external_services_and_steps.md
 node_modules/
 logs/
 *.log
