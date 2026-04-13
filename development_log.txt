@@ -3,3 +3,4 @@
 [2026-04-12 11:12:45] - added skeleton template for env
 [2026-04-12 19:48:14] - implemented env core functionality
 [2026-04-12 21:43:03] - implemented core logic for logger and setup logger
+[2026-04-13 09:44:20] - implemented utility helper apiResponse
