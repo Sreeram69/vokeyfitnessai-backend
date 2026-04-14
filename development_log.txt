@@ -8,3 +8,4 @@
 [2026-04-14 10:37:41] - implemented utility helper emailQueue
 [2026-04-14 14:16:21] - implemented utility helper emailQueue
 [2026-04-14 14:46:35] - implemented core logic for mailer and setup mailer
+[2026-04-14 18:06:05] - implemented utility helper notificationEmitter
