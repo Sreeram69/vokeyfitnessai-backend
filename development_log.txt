@@ -5,3 +5,4 @@
 [2026-04-12 21:43:03] - implemented core logic for logger and setup logger
 [2026-04-13 09:44:20] - implemented utility helper apiResponse
 [2026-04-13 17:53:05] - implemented utility helper apiResponse
+[2026-04-14 10:37:41] - implemented utility helper emailQueue
