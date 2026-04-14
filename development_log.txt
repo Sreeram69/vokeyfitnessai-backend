@@ -7,3 +7,4 @@
 [2026-04-13 17:53:05] - implemented utility helper apiResponse
 [2026-04-14 10:37:41] - implemented utility helper emailQueue
 [2026-04-14 14:16:21] - implemented utility helper emailQueue
+[2026-04-14 14:46:35] - implemented core logic for mailer and setup mailer
