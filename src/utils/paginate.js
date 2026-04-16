@@ -13,3 +13,37 @@
 const paginate = async (
   model,
   query = {},
+  { page = 1, limit = 10, sort = { createdAt: -1 }, select = "", populate = "" } = {}
+) => {
+  const parsedPage = Math.max(1, parseInt(page, 10));
+  const parsedLimit = Math.max(1, parseInt(limit, 10));
+  const skip = (parsedPage - 1) * parsedLimit;
+
+  let queryBuilder = model.find(query)
+    .sort(sort)
+    .select(select)
+    .skip(skip)
+    .limit(parsedLimit)
+    .lean(); // Enforce lean for optimal performance
+
+  if (populate) {
+    queryBuilder = queryBuilder.populate(populate);
+  }
+
+  const [totalResults, results] = await Promise.all([
+    model.countDocuments(query),
+    queryBuilder,
+  ]);
+
+  const totalPages = Math.ceil(totalResults / parsedLimit);
+
+  return {
+    results,
+    page: parsedPage,
+    limit: parsedLimit,
+    totalPages,
+    totalResults,
+  };
+};
+
+module.exports = paginate;
