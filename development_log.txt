@@ -12,3 +12,4 @@
 [2026-04-15 10:30:06] - implemented utility helper notificationEmitter
 [2026-04-15 15:30:10] - implemented utility helper paginate
 [2026-04-16 18:39:08] - implemented utility helper paginate
+[2026-04-16 20:03:28] - implemented core logic for redisClient and setup redisClient
