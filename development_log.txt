@@ -15,3 +15,4 @@
 [2026-04-16 20:03:28] - implemented core logic for redisClient and setup redisClient
 [2026-04-16 21:08:34] - implemented utility helper tokenBlacklist
 [2026-04-17 11:59:56] - implemented utility helper tokenBlacklist
+[2026-04-17 15:43:02] - implemented asyncHandler request handling middleware
