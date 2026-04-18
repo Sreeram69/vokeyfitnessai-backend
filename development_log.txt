@@ -17,3 +17,4 @@
 [2026-04-17 11:59:56] - implemented utility helper tokenBlacklist
 [2026-04-17 15:43:02] - implemented asyncHandler request handling middleware
 [2026-04-18 09:04:02] - added authMiddleware middleware outline
+[2026-04-18 09:21:18] - implemented core logic for authMiddleware and setup errorHandler
