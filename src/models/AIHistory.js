@@ -13,3 +13,21 @@ const aiHistorySchema = new mongoose.Schema(
       required: true,
     },
     prompt: {
+      type: String,
+      required: true,
+    },
+    response: {
+      type: mongoose.Schema.Types.Mixed,
+      required: true,
+    }
+  },
+  {
+    timestamps: true,
+  }
+);
+
+aiHistorySchema.index({ userId: 1, createdAt: -1 });
+
+const AIHistory = mongoose.model("AIHistory", aiHistorySchema);
+
+module.exports = AIHistory;
