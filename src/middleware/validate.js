@@ -13,3 +13,33 @@ const validate = (schemas) => (req, res, next) => {
     if (schemas.query) {
       const parsedQuery = schemas.query.parse(req.query);
       Object.defineProperty(req, "query", {
+        value: parsedQuery,
+        writable: true,
+        configurable: true,
+        enumerable: true
+      });
+    }
+    if (schemas.params) {
+      req.params = schemas.params.parse(req.params);
+    }
+    next();
+  } catch (error) {
+    if (error.errors) {
+      // Map Zod validation errors to clean messages
+      const details = error.errors.map(
+        (err) => `${err.path.join(".")}: ${err.message}`
+      );
+      
+      return res.status(400).json({
+        success: false,
+        message: "Invalid request payload validation failed",
+        errorCode: "VALIDATION_ERROR",
+        errors: details,
+        timestamp: new Date().toISOString()
+      });
+    }
+    next(error);
+  }
+};
+
+module.exports = validate;
