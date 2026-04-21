@@ -13,3 +13,40 @@ const notificationSchema = new mongoose.Schema(
     },
     title: {
       type: String,
+      required: true,
+      trim: true
+    },
+    message: {
+      type: String,
+      required: true,
+      trim: true
+    },
+    type: {
+      type: String,
+      enum: ["workout", "nutrition", "system", "announcement", "alert", "auth"],
+      default: "announcement"
+    },
+    priority: {
+      type: String,
+      enum: ["low", "medium", "high"],
+      default: "medium"
+    },
+    read: {
+      type: Boolean,
+      default: false
+    },
+    readBy: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "User"
+      }
+    ]
+  },
+  {
+    timestamps: true
+  }
+);
+
+const Notification = mongoose.model("Notification", notificationSchema);
+
+module.exports = Notification;

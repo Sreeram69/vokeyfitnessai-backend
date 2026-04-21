@@ -30,3 +30,4 @@
 [2026-04-19 19:19:59] - implemented core logic for AIHistory and setup Exercise
 [2026-04-20 14:29:27] - created Exercise mongoose schema and model
 [2026-04-20 15:38:10] - added initial Notification model skeleton
+[2026-04-21 15:22:29] - created Notification mongoose schema and model
