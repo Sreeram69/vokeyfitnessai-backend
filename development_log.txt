@@ -35,3 +35,4 @@
 [2026-04-22 13:13:39] - implemented core logic for Nutrition and setup OTPVerification
 [2026-04-22 16:48:37] - created OTPVerification mongoose schema and model
 [2026-04-23 10:50:41] - added initial Session model skeleton
+[2026-04-23 12:26:00] - created Session mongoose schema and model
