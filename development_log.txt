@@ -37,3 +37,4 @@
 [2026-04-23 10:50:41] - added initial Session model skeleton
 [2026-04-23 12:26:00] - created Session mongoose schema and model
 [2026-04-23 17:11:29] - added initial User model skeleton
+[2026-04-24 12:07:21] - implemented core logic for User and setup Workout
