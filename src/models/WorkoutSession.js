@@ -13,3 +13,40 @@ const workoutSessionSchema = new mongoose.Schema(
       default: "active",
     },
     category: {
+      type: String,
+      default: "General",
+    },
+    duration: {
+      type: Number, // total duration in seconds
+      default: 0,
+    },
+    caloriesBurned: {
+      type: Number,
+      default: 0,
+    },
+    exercisesCompleted: [
+      {
+        exerciseId: String,
+        name: String,
+        sets: Number,
+        reps: Number,
+      }
+    ],
+    startedAt: {
+      type: Date,
+      default: Date.now,
+    },
+    endedAt: {
+      type: Date,
+    }
+  },
+  {
+    timestamps: true,
+  }
+);
+
+workoutSessionSchema.index({ userId: 1, startedAt: -1 });
+
+const WorkoutSession = mongoose.model("WorkoutSession", workoutSessionSchema);
+
+module.exports = WorkoutSession;
