@@ -39,3 +39,4 @@
 [2026-04-23 17:11:29] - added initial User model skeleton
 [2026-04-24 12:07:21] - implemented core logic for User and setup Workout
 [2026-04-24 13:21:00] - created Workout mongoose schema and model
+[2026-04-24 14:41:41] - added initial WorkoutSession model skeleton
