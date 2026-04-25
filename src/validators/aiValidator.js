@@ -13,3 +13,16 @@ const suggestWorkoutSchema = z.object({
   targetWeight: z.coerce.number().min(10).max(600),
   activityLevel: z.string().trim().min(1),
   workoutDays: z.coerce.number().min(1).max(7).default(5).optional(),
+  experienceLevel: z.string().trim().default("Beginner").optional(),
+  injuries: z.array(z.string()).default([]).optional(),
+});
+
+const chatAssistantSchema = z.object({
+  message: z.string().min(1, "Message is required").max(1000).trim(),
+});
+
+module.exports = {
+  analyzeFoodSchema,
+  suggestWorkoutSchema,
+  chatAssistantSchema,
+};

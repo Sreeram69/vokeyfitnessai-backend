@@ -42,3 +42,4 @@
 [2026-04-24 14:41:41] - added initial WorkoutSession model skeleton
 [2026-04-24 17:40:42] - created WorkoutSession mongoose schema and model
 [2026-04-25 10:12:05] - created aiValidator validation schema
+[2026-04-25 16:33:27] - implemented core logic for aiValidator and setup authValidator
