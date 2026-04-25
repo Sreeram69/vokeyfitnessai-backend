@@ -46,3 +46,4 @@
 [2026-04-25 19:51:51] - created authValidator validation schema
 [2026-04-25 20:24:14] - created nutritionValidator validation schema
 [2026-04-25 21:37:42] - created nutritionValidator validation schema
+[2026-04-25 21:41:50] - created workoutValidator validation schema
