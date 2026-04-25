@@ -13,3 +13,13 @@ const logMealSchema = z.object({
     sodium: z.coerce.number().min(0).optional().default(0),
     mealType: z.string().optional().default("Snack"),
   }),
+});
+
+const getNutritionSchema = z.object({
+  date: z.string().optional(),
+});
+
+module.exports = {
+  logMealSchema,
+  getNutritionSchema,
+};
