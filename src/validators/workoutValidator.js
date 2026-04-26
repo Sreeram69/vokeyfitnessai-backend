@@ -13,3 +13,12 @@ const endSessionSchema = z.object({
       name: z.string().min(1, "Exercise name is required"),
       sets: z.coerce.number().min(0).optional(),
       reps: z.coerce.number().min(0).optional(),
+      bodyPart: z.string().optional(),
+    })
+  ).default([]),
+});
+
+module.exports = {
+  startSessionSchema,
+  endSessionSchema,
+};
