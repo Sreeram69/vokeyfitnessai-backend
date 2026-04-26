@@ -13,3 +13,20 @@ class MemoryCache {
     if (!data) return null;
 
     if (Date.now() > data.expiresAt) {
+      this.cache.delete(key);
+      return null;
+    }
+
+    return data.value;
+  }
+
+  delete(key) {
+    this.cache.delete(key);
+  }
+
+  clear() {
+    this.cache.clear();
+  }
+}
+
+module.exports = new MemoryCache();
