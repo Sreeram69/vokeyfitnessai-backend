@@ -61,3 +61,4 @@
 [2026-04-28 16:12:58] - implemented auth controller logic and handlers
 [2026-04-29 14:38:13] - added exerciseController outline and functions skeleton
 [2026-04-29 21:47:35] - implemented exercise controller logic and handlers
+[2026-04-29 21:49:23] - implemented core logic for fitnessController and setup fitnessController
