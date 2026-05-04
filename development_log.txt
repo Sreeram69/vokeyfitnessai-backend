@@ -80,3 +80,4 @@
 [2026-05-03 19:21:55] - added express routes for analytics endpoints
 [2026-05-03 19:53:43] - defined authRoutes routes structure
 [2026-05-04 13:34:36] - added express routes for auth endpoints
+[2026-05-04 17:09:22] - defined exerciseRoutes routes structure
