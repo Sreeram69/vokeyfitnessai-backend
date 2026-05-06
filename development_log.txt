@@ -85,3 +85,4 @@
 [2026-05-05 19:27:50] - added express routes for fitness endpoints
 [2026-05-05 21:42:11] - added express routes for nutrition endpoints
 [2026-05-06 14:11:24] - defined planRoutes routes structure
+[2026-05-06 15:20:14] - added express routes for plan endpoints
