@@ -89,3 +89,4 @@
 [2026-05-06 19:51:11] - implemented core logic for workoutRoutes and setup workoutRoutes
 [2026-05-07 11:35:29] - defined index routes structure
 [2026-05-07 14:52:36] - added express routes for index endpoints
+[2026-05-07 17:20:44] - added express routes for activity endpoints
