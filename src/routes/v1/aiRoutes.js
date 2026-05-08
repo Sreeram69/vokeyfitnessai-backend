@@ -13,3 +13,13 @@ const {
   analyzeFoodSchema,
   suggestWorkoutSchema,
   chatAssistantSchema,
+} = require("../../validators/aiValidator");
+
+// Apply tighter rate limiting specific to high-resource Gemini API operations
+router.post("/analyze-food", protect, aiLimiter, validate({ body: analyzeFoodSchema }), analyzeFood);
+router.post("/nutrition", protect, aiLimiter, validate({ body: analyzeFoodSchema }), analyzeFood);
+router.post("/workout-plan", protect, aiLimiter, validate({ body: suggestWorkoutSchema }), suggestWorkoutPlan);
+router.post("/plan", protect, aiLimiter, validate({ body: suggestWorkoutSchema }), suggestWorkoutPlan);
+router.post("/chat", protect, aiLimiter, validate({ body: chatAssistantSchema }), chatAssistant);
+
+module.exports = router;
