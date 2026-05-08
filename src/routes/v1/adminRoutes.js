@@ -13,3 +13,15 @@ const {
 
 // Apply protection globally to all admin routes
 router.use(protect);
+router.use(adminOnly);
+
+router.get("/stats", getAdminStats);
+router.get("/active-sessions", getActiveWorkoutSessions);
+router.get("/api-stats", getAdminApiStats);
+router.get("/users", getAdminUsers);
+router.route("/users/:id")
+  .put(updateAdminUser)
+  .delete(deleteAdminUser);
+router.put("/users/:id/suspend", toggleSuspendUser);
+
+module.exports = router;

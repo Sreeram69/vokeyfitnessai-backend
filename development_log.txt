@@ -91,3 +91,4 @@
 [2026-05-07 14:52:36] - added express routes for index endpoints
 [2026-05-07 17:20:44] - added express routes for activity endpoints
 [2026-05-08 12:46:56] - defined adminRoutes routes structure
+[2026-05-08 16:13:40] - implemented core logic for adminRoutes and setup aiRoutes
