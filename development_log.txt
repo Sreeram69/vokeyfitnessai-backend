@@ -95,3 +95,4 @@
 [2026-05-08 19:53:42] - added express routes for ai endpoints
 [2026-05-09 09:21:16] - added express routes for analytics endpoints
 [2026-05-09 14:57:13] - defined authRoutes routes structure
+[2026-05-09 15:20:27] - added express routes for auth endpoints
