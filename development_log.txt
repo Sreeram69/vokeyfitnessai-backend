@@ -94,3 +94,4 @@
 [2026-05-08 16:13:40] - implemented core logic for adminRoutes and setup aiRoutes
 [2026-05-08 19:53:42] - added express routes for ai endpoints
 [2026-05-09 09:21:16] - added express routes for analytics endpoints
+[2026-05-09 14:57:13] - defined authRoutes routes structure
