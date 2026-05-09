@@ -97,3 +97,4 @@
 [2026-05-09 14:57:13] - defined authRoutes routes structure
 [2026-05-09 15:20:27] - added express routes for auth endpoints
 [2026-05-09 18:16:02] - implemented core logic for exerciseRoutes and setup exerciseRoutes
+[2026-05-09 18:46:11] - defined fitnessRoutes routes structure
