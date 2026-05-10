@@ -13,3 +13,17 @@ router.get("/", (req, res) => {
     2: "connecting",
     3: "disconnecting",
   };
+
+  const status = {
+    uptime: Math.round(process.uptime()),
+    database: dbStates[dbState] || "unknown",
+    memoryUsage: process.memoryUsage(),
+    environment: process.env.NODE_ENV || "development",
+    version: "1.0.0",
+    timestamp: new Date().toISOString(),
+  };
+
+  return sendSuccess(res, "VokeyFitness API diagnostics retrieved successfully", status);
+});
+
+module.exports = router;
