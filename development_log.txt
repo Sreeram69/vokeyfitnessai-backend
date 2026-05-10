@@ -101,3 +101,4 @@
 [2026-05-10 09:22:07] - added express routes for fitness endpoints
 [2026-05-10 10:47:17] - defined health routes structure
 [2026-05-10 11:41:58] - implemented core logic for health and setup notificationRoutes
+[2026-05-10 13:40:31] - added express routes for notification endpoints

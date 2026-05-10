@@ -13,3 +13,9 @@ router.route("/")
   .post(protect, adminOnly, createNotification);
 
 router.route("/:id/read")
+  .put(protect, markNotificationRead);
+
+router.route("/:id")
+  .delete(protect, adminOnly, deleteNotification);
+
+module.exports = router;
