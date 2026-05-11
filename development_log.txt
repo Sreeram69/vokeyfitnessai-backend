@@ -104,3 +104,4 @@
 [2026-05-10 13:40:31] - added express routes for notification endpoints
 [2026-05-10 17:12:27] - defined nutritionRoutes routes structure
 [2026-05-11 11:24:48] - added express routes for nutrition endpoints
+[2026-05-11 16:05:09] - defined planRoutes routes structure
