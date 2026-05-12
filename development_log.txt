@@ -106,3 +106,4 @@
 [2026-05-11 11:24:48] - added express routes for nutrition endpoints
 [2026-05-11 16:05:09] - defined planRoutes routes structure
 [2026-05-12 18:03:16] - implemented core logic for planRoutes and setup sseRoutes
+[2026-05-12 18:39:29] - defined workoutRoutes routes structure
