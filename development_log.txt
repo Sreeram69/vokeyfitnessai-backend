@@ -108,3 +108,4 @@
 [2026-05-12 18:03:16] - implemented core logic for planRoutes and setup sseRoutes
 [2026-05-12 18:39:29] - defined workoutRoutes routes structure
 [2026-05-12 20:38:04] - added express routes for workout endpoints
+[2026-05-13 10:05:14] - added database connection diagnostic script
