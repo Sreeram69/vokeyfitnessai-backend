@@ -1,0 +1,73 @@
+version: "3.8"
+
+services:
+  # 1. High-Performance MongoDB Database
+  mongodb:
+    image: mongo:6.0
+    container_name: vokey_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - vokey_network
+    restart: always
+
+  # 2. Redis Distributed Cache & Pub/Sub broker
+  redis:
+    image: redis:7-alpine
+    container_name: vokey_redis
+    ports:
+      - "6379:6379"
+    command: redis-server --loglevel warning
+    volumes:
+      - redis_data:/data
+    networks:
+      - vokey_network
+    restart: always
+
+  # 3. Node.js Backend API Server
+  backend:
+    build: .
+    container_name: vokey_backend
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - PORT=5000
+      - MONGO_URI=${MONGO_URI:-mongodb://mongodb:27017/vokeyfitness}
+      - REDIS_URL=${REDIS_URL:-redis://redis:6379}
+      - JWT_SECRET=${JWT_SECRET}
+      - JWT_REFRESH_SECRET=${JWT_REFRESH_SECRET}
+      - CLIENT_URL=${CLIENT_URL:-http://localhost}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    depends_on:
+      - mongodb
+      - redis
+    networks:
+      - vokey_network
+    restart: always
+
+  # 4. Production-Served Nginx Frontend Client
+  frontend:
+    build: ../vokeyfitness-client
+    container_name: vokey_frontend
+    ports:
+      - "80:80"
+    environment:
+      - VITE_API_BASE_URL=http://localhost:5000/api
+    depends_on:
+      - backend
+    networks:
+      - vokey_network
+    restart: always
+
+# Persistent Docker volume parameters to preserve user databases across restarts
+volumes:
+  mongo_data:
+  redis_data:
+
+# Bridge network configuration for isolated in-compose inter-container communication
+networks:
+  vokey_network:
+    driver: bridge

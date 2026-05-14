@@ -243,3 +243,4 @@
 [2026-05-23 21:07:48] - added exerciseDb.json resource file
 [2026-05-23 21:09:20] - added foodDb.json resource file
 [2026-05-13 21:54:07] - implemented core logic for development and setup development_log
+[2026-05-14 17:03:43] - setup docker compose config for service orchestration
