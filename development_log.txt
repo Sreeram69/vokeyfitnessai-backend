@@ -249,3 +249,4 @@
 [2026-05-15 15:24:25] - added basic server structure
 [2026-05-16 11:43:44] - implemented core logic for server and setup PULL_REQUEST_TEMPLATE
 [2026-05-16 14:27:51] - added bug_report.md resource file
+[2026-05-16 14:28:35] - added feature_request.md resource file
