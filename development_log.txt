@@ -269,3 +269,4 @@
 [2026-05-21 10:59:45] - added generateGitHistoryV2.py resource file
 [2026-05-21 12:50:41] - implemented core logic for generateGitHistoryV3 and setup generateGitHistoryV4
 [2026-05-21 15:46:37] - added skeleton template for migrateExercises
+[2026-05-21 17:58:42] - implemented migrateExercises core functionality
