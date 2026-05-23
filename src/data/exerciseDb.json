@@ -1,0 +1,3783 @@
+[
+  {
+    "id": "chest-01",
+    "name": "Barbell Bench Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "The classic compound movement to build chest mass, strength, and shoulder stability.",
+    "instructions": [
+      "Lie on a flat bench with your eyes under the bar.",
+      "Grasp the bar with a medium width grip.",
+      "Unrack the bar by straightening your arms.",
+      "Lower the bar to your mid-chest.",
+      "Press the bar back up until your arms are fully extended."
+    ],
+    "tips": [
+      "Keep your feet flat on the floor.",
+      "Maintain a slight arch in your lower back.",
+      "Do not bounce the bar off your chest."
+    ],
+    "gifUrl": "/gifs/chest-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-02",
+    "name": "Incline Dumbbell Press",
+    "bodyPart": "chest",
+    "target": "upper pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "An excellent compound chest press variation to build upper pectoral shelf.",
+    "instructions": [
+      "Lie back on an incline bench with a dumbbell in each hand.",
+      "Hold the dumbbells at shoulder width.",
+      "Press the dumbbells up until your arms are fully extended.",
+      "Slowly lower the weights back to the starting position."
+    ],
+    "tips": [
+      "Set the bench angle to 30-45 degrees.",
+      "Keep your elbows slightly tucked in.",
+      "Squeeze your chest at the top of the movement."
+    ],
+    "gifUrl": "/gifs/chest-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-03",
+    "name": "Decline Bench Press",
+    "bodyPart": "chest",
+    "target": "lower pectorals",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "A bench press variation focusing on the lower pectoral region.",
+    "instructions": [
+      "Lie on a decline bench and secure your legs.",
+      "Grip the bar slightly wider than shoulder-width.",
+      "Lower the bar to your lower chest.",
+      "Press the bar upward until arms are extended."
+    ],
+    "tips": [
+      "Control the descent.",
+      "Keep wrists straight.",
+      "Avoid locking elbows aggressively."
+    ],
+    "gifUrl": "/gifs/chest-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-04",
+    "name": "Dumbbell Chest Fly",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "An isolation exercise to stretch the pectorals and build broad chest definition.",
+    "instructions": [
+      "Lie flat on a bench with dumbbells above chest.",
+      "Lower arms outward in a wide arc.",
+      "Stretch chest fully.",
+      "Bring weights back together."
+    ],
+    "tips": [
+      "Keep slight elbow bend.",
+      "Avoid overstretching shoulders.",
+      "Move slowly."
+    ],
+    "gifUrl": "/gifs/chest-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-05",
+    "name": "Standard Push-ups",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "An essential compound bodyweight movement for upper body conditioning.",
+    "instructions": [
+      "Get into a plank position with your hands slightly wider than shoulder-width apart.",
+      "Keep your body in a straight line from head to heels.",
+      "Lower your body until your chest nearly touches the floor.",
+      "Push yourself back up to the starting position."
+    ],
+    "tips": [
+      "Keep your core engaged.",
+      "Do not let your hips sag.",
+      "Keep your elbows close to your body."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-06",
+    "name": "Cable Crossover",
+    "bodyPart": "chest",
+    "target": "inner pectorals",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Builds inner pectoral definition and overall chest fullness using constant tension.",
+    "instructions": [
+      "Stand in the middle of a dual cable machine with D-handles attached to the high pulleys.",
+      "Grab a handle in each hand and step forward slightly.",
+      "With a slight bend in your elbows, pull the handles down and across your body.",
+      "Slowly return to the starting position."
+    ],
+    "tips": [
+      "Keep your chest up and shoulders back.",
+      "Focus on squeezing your chest muscles.",
+      "Do not use momentum to swing the weights."
+    ],
+    "gifUrl": "/gifs/chest-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-07",
+    "name": "Chest Dips",
+    "bodyPart": "chest",
+    "target": "lower pectorals",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "An intense bodyweight press focusing on lower chest fibers and triceps.",
+    "instructions": [
+      "Grab parallel bars and lift your body up.",
+      "Lean your torso forward slightly.",
+      "Bend elbows and lower your body until shoulders are below elbows.",
+      "Push back up to the starting position."
+    ],
+    "tips": [
+      "Maintain a forward lean.",
+      "Do not flare elbows excessively.",
+      "Control your speed."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-08",
+    "name": "Pec Deck Fly",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "machine",
+    "difficulty": "Beginner",
+    "description": "Machine chest fly variation providing a safe path to pectoral isolation.",
+    "instructions": [
+      "Sit back on the seat with elbows bent 90 degrees on the pads.",
+      "Push the pads together in front of your chest.",
+      "Squeeze pectorals at the peak contraction.",
+      "Return slowly to the start position."
+    ],
+    "tips": [
+      "Keep back flat against the pad.",
+      "Control the eccentric stretch phase.",
+      "Do not slam weights."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-09",
+    "name": "Incline Barbell Press",
+    "bodyPart": "chest",
+    "target": "upper pectorals",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Upper chest builder focusing on strength and stability.",
+    "instructions": [
+      "Lie on an incline bench set to 30 degrees.",
+      "Grip the bar slightly wider than shoulder-width.",
+      "Lower the bar down to your upper chest.",
+      "Press the bar straight up to full lock out."
+    ],
+    "tips": [
+      "Brace feet firmly.",
+      "Do not bounce the bar off collarbones.",
+      "Keep shoulder blades retracted."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-10",
+    "name": "Dumbbell Pullover",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Expands ribcage and stimulates both chest and lat fibers.",
+    "instructions": [
+      "Lie across a flat bench with only upper back supported.",
+      "Hold a dumbbell with both hands above your chest.",
+      "Lower the dumbbell backward behind your head, keeping elbows slightly bent.",
+      "Pull the weight back up to start position."
+    ],
+    "tips": [
+      "Maintain a strong hip bridge.",
+      "Keep core tight.",
+      "Focus on the chest stretch."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-01",
+    "name": "Lat Pulldown",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "A machine vertical pulling movement to build broad lat coverage.",
+    "instructions": [
+      "Sit at a lat pulldown station and grab the bar with a wide grip.",
+      "Pull the bar down to your upper chest.",
+      "Squeeze your shoulder blades together.",
+      "Slowly return the bar to the starting position."
+    ],
+    "tips": [
+      "Keep your torso stationary.",
+      "Do not lean back too far.",
+      "Focus on pulling with your back, not your arms."
+    ],
+    "gifUrl": "/gifs/back-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-02",
+    "name": "Barbell Deadlift",
+    "bodyPart": "back",
+    "target": "lower back",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "The gold standard of compound movements targeting the entire posterior chain.",
+    "instructions": [
+      "Stand with your mid-foot under the barbell.",
+      "Bend over and grab the bar with a shoulder-width grip.",
+      "Bend your knees until your shins touch the bar.",
+      "Lift your chest up and straighten your lower back.",
+      "Stand up with the weight, keeping the bar close to your body."
+    ],
+    "tips": [
+      "Keep your back straight throughout the movement.",
+      "Drive through your heels.",
+      "Do not round your lower back."
+    ],
+    "gifUrl": "/gifs/back-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-03",
+    "name": "Seated Cable Row",
+    "bodyPart": "back",
+    "target": "middle back",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Builds middle back density and traps using horizontal cable pull.",
+    "instructions": [
+      "Sit at a low pulley row machine with a V-bar attachment.",
+      "Place your feet on the footplates with your knees slightly bent.",
+      "Keep your back straight and pull the handles back towards your torso.",
+      "Squeeze your shoulder blades together.",
+      "Slowly return to the starting position."
+    ],
+    "tips": [
+      "Do not lean forward or backward excessively.",
+      "Keep your elbows close to your body.",
+      "Focus on pulling with your back muscles."
+    ],
+    "gifUrl": "/gifs/back-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-04",
+    "name": "Pull-ups",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "The supreme bodyweight vertical pulling movement.",
+    "instructions": [
+      "Grab a pull-up bar with an overhand grip slightly wider than shoulder-width.",
+      "Hang with your arms fully extended.",
+      "Pull yourself up until your chin is over the bar.",
+      "Slowly lower yourself back down."
+    ],
+    "tips": [
+      "Keep your core tight.",
+      "Do not swing your legs.",
+      "Focus on engaging your back muscles."
+    ],
+    "gifUrl": "/gifs/back-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-05",
+    "name": "T-Bar Row",
+    "bodyPart": "back",
+    "target": "middle back",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "An angled row variation emphasizing back depth and grip strength.",
+    "instructions": [
+      "Stand over the T-bar platform.",
+      "Grip handles firmly.",
+      "Pull weight toward chest.",
+      "Lower under control."
+    ],
+    "tips": [
+      "Keep chest up.",
+      "Avoid jerking.",
+      "Engage lats."
+    ],
+    "gifUrl": "/gifs/back-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-06",
+    "name": "Single Arm Dumbbell Row",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Isolates each lat individually to address muscular imbalances.",
+    "instructions": [
+      "Place one knee on bench.",
+      "Pull dumbbell toward waist.",
+      "Squeeze shoulder blade.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep back neutral.",
+      "Do not rotate torso.",
+      "Control movement."
+    ],
+    "gifUrl": "/gifs/back-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-07",
+    "name": "Hyper-Extensions",
+    "bodyPart": "back",
+    "target": "lower back",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Safely targets the lumbar back extensor muscles.",
+    "instructions": [
+      "Lie face down on a hyperextension bench.",
+      "Place hands behind head or crossed over chest.",
+      "Lower upper body slowly.",
+      "Raise back up until in line with legs."
+    ],
+    "tips": [
+      "Avoid hyper-extending the spine past neutral at top.",
+      "Keep movements slow and deliberate."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-08",
+    "name": "Face Pulls",
+    "bodyPart": "back",
+    "target": "upper back",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Targets rear deltoids, rhomboids, and external shoulder rotators.",
+    "instructions": [
+      "Set cable pulley to upper chest height.",
+      "Grab rope attachment with palms facing inward.",
+      "Pull rope straight to your face, pulling ends apart.",
+      "Slowly return to start."
+    ],
+    "tips": [
+      "Keep elbows high.",
+      "Focus on the rear shoulder squeeze."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-09",
+    "name": "Straight-Arm Pulldown",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Isolates the latissimus dorsi by eliminating bicep flex.",
+    "instructions": [
+      "Stand facing cable machine with a straight bar attached to high pulley.",
+      "Grip bar with arms straight.",
+      "Pull bar down in an arc to thighs.",
+      "Return slowly."
+    ],
+    "tips": [
+      "Keep arms straight throughout.",
+      "Maintain a slight forward torso angle."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-10",
+    "name": "Bent-Over Barbell Row",
+    "bodyPart": "back",
+    "target": "middle back",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "A compound horizontal pulling movement to build upper back thickness.",
+    "instructions": [
+      "Hinge at your hips with a flat back, holding a barbell.",
+      "Pull the barbell towards your lower chest, squeezing shoulder blades.",
+      "Lower the bar slowly to full arm hang."
+    ],
+    "tips": [
+      "Keep back neutral.",
+      "Avoid excessive vertical movement."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-01",
+    "name": "Barbell Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "The undisputed king of lower body movements to build quad, glute, and core power.",
+    "instructions": [
+      "Stand with your feet shoulder-width apart and a barbell across your upper back.",
+      "Bend your knees and hips to lower your body as if sitting in a chair.",
+      "Keep your chest up and your back straight.",
+      "Lower yourself until your thighs are parallel to the floor.",
+      "Push back up to the starting position."
+    ],
+    "tips": [
+      "Keep your weight on your heels.",
+      "Do not let your knees cave inwards.",
+      "Maintain a tight core."
+    ],
+    "gifUrl": "/gifs/legs-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-02",
+    "name": "Leg Press",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "machine",
+    "difficulty": "Intermediate",
+    "description": "Overloads the lower body without loading the spine directly.",
+    "instructions": [
+      "Sit on a leg press machine and place your feet shoulder-width apart on the sled.",
+      "Unrack the sled and slowly lower it towards your chest.",
+      "Push the sled back up until your legs are fully extended.",
+      "Do not lock out your knees at the top."
+    ],
+    "tips": [
+      "Keep your lower back pressed against the pad.",
+      "Do not let your knees track past your toes.",
+      "Control the weight on the descent."
+    ],
+    "gifUrl": "/gifs/legs-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-03",
+    "name": "Romanian Deadlift",
+    "bodyPart": "legs",
+    "target": "hamstrings",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "An excellent posterior chain builder focusing on the hip hinge mechanics.",
+    "instructions": [
+      "Stand with your feet hip-width apart, holding a barbell in front of your thighs.",
+      "Keep your legs slightly bent and your back straight.",
+      "Hinge at your hips and lower the barbell down your legs.",
+      "Stop when you feel a stretch in your hamstrings.",
+      "Squeeze your glutes and return to the starting position."
+    ],
+    "tips": [
+      "Keep the barbell close to your body.",
+      "Do not round your lower back.",
+      "Focus on the hip hinge movement."
+    ],
+    "gifUrl": "/gifs/legs-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-04",
+    "name": "Walking Lunges",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Unilateral leg builder that improves balance and leg strength.",
+    "instructions": [
+      "Stand with your feet together, holding a dumbbell in each hand.",
+      "Take a large step forward with your right leg.",
+      "Lower your body until your right thigh is parallel to the floor and your left knee is just above the ground.",
+      "Push off your right foot to bring your left foot forward into the next lunge.",
+      "Continue alternating legs."
+    ],
+    "tips": [
+      "Keep your torso upright.",
+      "Do not let your front knee track past your toes.",
+      "Take long, controlled steps."
+    ],
+    "gifUrl": "/gifs/legs-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-05",
+    "name": "Bulgarian Split Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "dumbbell",
+    "difficulty": "Advanced",
+    "description": "Deep unilateral leg builder that heavily recruits glutes and stabilizer muscles.",
+    "instructions": [
+      "Place rear foot on bench.",
+      "Lower into squat.",
+      "Push upward."
+    ],
+    "tips": [
+      "Keep torso upright.",
+      "Control balance.",
+      "Drive through front heel."
+    ],
+    "gifUrl": "/gifs/legs-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-06",
+    "name": "Leg Extensions",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "machine",
+    "difficulty": "Beginner",
+    "description": "Isolation movement focusing strictly on the quadriceps.",
+    "instructions": [
+      "Sit in extension machine with shins behind pads.",
+      "Extend knees fully until legs are straight.",
+      "Lower slowly back to start."
+    ],
+    "tips": [
+      "Keep back tight to seat pad.",
+      "Squeeze quads at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-07",
+    "name": "Seated Leg Curls",
+    "bodyPart": "legs",
+    "target": "hamstrings",
+    "equipment": "machine",
+    "difficulty": "Beginner",
+    "description": "Isolates the hamstring group under knee flex.",
+    "instructions": [
+      "Sit in machine with legs over roll pad.",
+      "Pull pad down and back toward butt.",
+      "Squeeze hamstrings.",
+      "Slowly return."
+    ],
+    "tips": [
+      "Avoid using momentum.",
+      "Control the eccentric phase."
+    ],
+    "gifUrl": "/gifs/legs-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-08",
+    "name": "Standing Calf Raises",
+    "bodyPart": "legs",
+    "target": "calves",
+    "equipment": "barbell",
+    "difficulty": "Beginner",
+    "description": "Builds the gastrocnemius calf muscle.",
+    "instructions": [
+      "Stand on an elevated edge with balls of feet.",
+      "Lower heels below platform level.",
+      "Push up onto tiptoes.",
+      "Pause and lower."
+    ],
+    "tips": [
+      "Get a deep stretch at bottom.",
+      "Pause at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-09",
+    "name": "Goblet Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Dumbbell loaded front squat promoting proper squat depth and posture.",
+    "instructions": [
+      "Stand with feet shoulder-width, holding dumbbell vertically at chest.",
+      "Squat down keeping chest proud and spine neutral.",
+      "Go deep, then press back up."
+    ],
+    "tips": [
+      "Keep weight in heels.",
+      "Drive knees outward."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-10",
+    "name": "Hip Thrusts",
+    "bodyPart": "legs",
+    "target": "glutes",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "The gold standard exercise for targeting glute strength and size.",
+    "instructions": [
+      "Sit with upper back against bench, bar over hips.",
+      "Drive hips up until torso is parallel to floor.",
+      "Squeeze glutes at top.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Maintain shin verticality at top.",
+      "Tuck chin slightly forward."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-01",
+    "name": "Overhead Barbell Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Foundational compound vertical press to build shoulder cap strength.",
+    "instructions": [
+      "Stand with your feet shoulder-width apart.",
+      "Grip the barbell slightly wider than shoulder-width.",
+      "Rest the bar on your collarbones.",
+      "Press the bar straight up overhead until your arms are locked out.",
+      "Lower the bar back to your collarbones."
+    ],
+    "tips": [
+      "Keep your core braced.",
+      "Do not lean back excessively.",
+      "Move your head slightly out of the way as the bar travels up."
+    ],
+    "gifUrl": "/gifs/shoulders-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-02",
+    "name": "Seated Dumbbell Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Seated shoulder overhead press allowing independent arm extension.",
+    "instructions": [
+      "Sit on upright bench with dumbbells at shoulder height.",
+      "Press weights overhead until arms extend.",
+      "Lower weights back to shoulders."
+    ],
+    "tips": [
+      "Keep back flush against pad.",
+      "Avoid banging dumbbells at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-03",
+    "name": "Dumbbell Lateral Raise",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Builds lateral shoulder caps for a wider upper-body appearance.",
+    "instructions": [
+      "Stand with a dumbbell in each hand by your sides.",
+      "Keep a slight bend in your elbows and your back straight.",
+      "Raise the dumbbells out to the side until your arms are parallel to the floor.",
+      "Slowly lower the dumbbells back to the starting position."
+    ],
+    "tips": [
+      "Lead with your elbows, not your hands.",
+      "Do not swing the weights.",
+      "Keep your shoulder blades pulled down and back."
+    ],
+    "gifUrl": "/gifs/shoulder-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-04",
+    "name": "Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Provides continuous tension across the shoulder lateral range.",
+    "instructions": [
+      "Stand next to low cable pulley.",
+      "Grab handle with opposite arm.",
+      "Raise arm sideways to shoulder height.",
+      "Lower under control."
+    ],
+    "tips": [
+      "Maintain a slow, stable tempo.",
+      "Brace body with free hand."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-05",
+    "name": "Bent-Over Rear Delt Fly",
+    "bodyPart": "shoulders",
+    "target": "rear delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Targets the rear deltoid muscle fibers to ensure balanced shoulder posture.",
+    "instructions": [
+      "Hinge forward at hips, holding dumbbells below torso.",
+      "Raise arms out to sides in wide arc.",
+      "Squeeze rear shoulders.",
+      "Lower weights slowly."
+    ],
+    "tips": [
+      "Do not swing torso.",
+      "Keep back straight."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-06",
+    "name": "Arnold Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Unique overhead press targeting both front and lateral shoulder heads.",
+    "instructions": [
+      "Start with dumbbells in front of shoulders, palms facing body.",
+      "Rotate palms outward while pressing overhead.",
+      "Lower back slowly, rotating palms back in."
+    ],
+    "tips": [
+      "Control rotation.",
+      "Avoid arching back.",
+      "Use full range."
+    ],
+    "gifUrl": "/gifs/shoulders-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-07",
+    "name": "Barbell Upright Row",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Builds upper traps and lateral delts using vertical row.",
+    "instructions": [
+      "Stand holding barbell in front of thighs.",
+      "Pull bar up to upper chest, leading with elbows.",
+      "Keep bar close to body.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep elbows higher than hands.",
+      "Do not jerk weight."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-08",
+    "name": "Dumbbell Front Raise",
+    "bodyPart": "shoulders",
+    "target": "front delts",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Isolates the anterior deltoid head.",
+    "instructions": [
+      "Hold dumbbells in front of thighs.",
+      "Raise arms forward to shoulder height.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Do not swing.",
+      "Keep core tight.",
+      "Control descent."
+    ],
+    "gifUrl": "/gifs/shoulders-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-09",
+    "name": "Dumbbell Shrugs",
+    "bodyPart": "shoulders",
+    "target": "traps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Builds upper trapezius thickness and neck stability.",
+    "instructions": [
+      "Stand holding dumbbells at sides.",
+      "Shrug shoulders straight up to ears.",
+      "Squeeze, then lower slowly."
+    ],
+    "tips": [
+      "Do not roll shoulders.",
+      "Keep arms fully extended."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-10",
+    "name": "Cable Front Raise",
+    "bodyPart": "shoulders",
+    "target": "front delts",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Constant cable resistance targeting the front deltoids.",
+    "instructions": [
+      "Stand facing away from low pulley with cable between legs.",
+      "Hold bar attachment in front of thighs.",
+      "Raise arms forward to chest height.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep trunk stable.",
+      "Avoid rocking back."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-01",
+    "name": "Barbell Wrist Curl",
+    "bodyPart": "arms",
+    "target": "forearms",
+    "equipment": "barbell",
+    "difficulty": "Beginner",
+    "description": "Isolates the forearm wrist flexors.",
+    "instructions": [
+      "Rest forearms on bench holding barbell palm up.",
+      "Let bar roll down to fingertips.",
+      "Curl bar up by flexing wrists."
+    ],
+    "tips": [
+      "Keep forearms pinned to bench.",
+      "Control extension."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-02",
+    "name": "Reverse Wrist Curl",
+    "bodyPart": "arms",
+    "target": "forearms",
+    "equipment": "barbell",
+    "difficulty": "Beginner",
+    "description": "Strengthens upper forearm wrist extensors.",
+    "instructions": [
+      "Rest forearms on bench holding barbell palm down.",
+      "Lower bar, then extend wrists upward.",
+      "Slowly lower back down."
+    ],
+    "tips": [
+      "Maintain bench contact.",
+      "Squeeze top position."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-03",
+    "name": "Farmer's Walk",
+    "bodyPart": "arms",
+    "target": "forearms",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Builds absolute grip strength, forearm endurance, and shoulder health.",
+    "instructions": [
+      "Pick up heavy dumbbells in each hand.",
+      "Stand tall, brace core, and walk in straight path.",
+      "Hold weight securely for time/distance."
+    ],
+    "tips": [
+      "Keep shoulders retracted.",
+      "Take short, rapid steps."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-04",
+    "name": "Dumbbell Bicep Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Classic unilateral bicep curls to isolate arm muscles.",
+    "instructions": [
+      "Stand holding dumbbells at sides.",
+      "Curl weights up while rotating wrists.",
+      "Squeeze bicep, lower slowly."
+    ],
+    "tips": [
+      "Keep elbows tucked.",
+      "Avoid torso swinging."
+    ],
+    "gifUrl": "/gifs/arms-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-05",
+    "name": "Hammer Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Builds brachioradialis and forearm volume.",
+    "instructions": [
+      "Hold dumbbells at sides with neutral grip (palms in).",
+      "Curl weights up keeping palms facing in.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Maintain neutral wrist alignment.",
+      "Avoid shoulder lift."
+    ],
+    "gifUrl": "/gifs/arms-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-06",
+    "name": "Tricep Rope Pushdown",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Classic cable tricep exercise for isolation.",
+    "instructions": [
+      "Hold rope with elbows tucked to sides.",
+      "Extend arms downward, splitting rope at bottom.",
+      "Return to start."
+    ],
+    "tips": [
+      "Keep elbows stationary.",
+      "Flare wrist ends at bottom."
+    ],
+    "gifUrl": "/gifs/arms-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-07",
+    "name": "Overhead Tricep Extension",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Overhead stretch targeting the tricep long head.",
+    "instructions": [
+      "Sit/stand holding dumbbell overhead in both hands.",
+      "Lower dumbbell behind head bending elbows.",
+      "Press dumbbell overhead."
+    ],
+    "tips": [
+      "Keep elbows tucked near head.",
+      "Do not flare elbows outward."
+    ],
+    "gifUrl": "/gifs/arms-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-08",
+    "name": "Close Grip Bench Press",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Compound arm press targeting tricep mass.",
+    "instructions": [
+      "Lie on bench, grip bar at shoulder-width.",
+      "Lower bar to lower chest keeping elbows close.",
+      "Press upward."
+    ],
+    "tips": [
+      "Keep elbows tucked.",
+      "Minimize grip narrowness to save wrists."
+    ],
+    "gifUrl": "/gifs/arms-07.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-09",
+    "name": "Bench Dips",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Bodyweight tricep dip utilizing bench support.",
+    "instructions": [
+      "Hands on bench behind, feet forward.",
+      "Lower hips by bending elbows.",
+      "Push back up."
+    ],
+    "tips": [
+      "Stay close to bench.",
+      "Control depth."
+    ],
+    "gifUrl": "/gifs/arms-08.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-10",
+    "name": "EZ Bar Preacher Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Locks upper arms on pad to maximize bicep isolation.",
+    "instructions": [
+      "Rest arms on preacher pad holding EZ bar.",
+      "Curl bar up toward face.",
+      "Squeeze, then lower slowly."
+    ],
+    "tips": [
+      "Do not hyperextend at bottom.",
+      "Keep armpits snug to pad."
+    ],
+    "gifUrl": "/gifs/arms-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-01",
+    "name": "Dumbbell Alternating Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Standard bicep builder to trace strength improvements.",
+    "instructions": [
+      "Hold dumbbells at sides, palms facing in.",
+      "Curl one dumbbell up rotating wrist palm up.",
+      "Alternate sides."
+    ],
+    "tips": [
+      "Squeeze at top.",
+      "Control descent."
+    ],
+    "gifUrl": "/gifs/arms-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-02",
+    "name": "EZ Bar Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Beginner",
+    "description": "Angled barbell curls friendly on wrist joints.",
+    "instructions": [
+      "Hold EZ bar with underhand grip.",
+      "Curl bar upward.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep elbows pinned.",
+      "Maintain erect posture."
+    ],
+    "gifUrl": "/gifs/arms-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-03",
+    "name": "Concentration Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Strict bicep peak isolation curl.",
+    "instructions": [
+      "Sit on bench, elbow braced to inner thigh.",
+      "Curl dumbbell upward.",
+      "Lower under control."
+    ],
+    "tips": [
+      "Isolate elbow movement.",
+      "Focus on peak squeeze."
+    ],
+    "gifUrl": "/gifs/arms-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-04",
+    "name": "Incline Dumbbell Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Places biceps on dynamic stretch to trigger peak muscle growth.",
+    "instructions": [
+      "Lie on 45-degree incline bench with dumbbells hanging.",
+      "Curl dumbbells up without swinging arms forward.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep shoulders back.",
+      "Isolate biceps completely."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-05",
+    "name": "Cable Bicep Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Provides continuous tension across bicep flexion curve.",
+    "instructions": [
+      "Stand facing low cable pulley with straight bar.",
+      "Curl bar upward.",
+      "Lower bar slowly."
+    ],
+    "tips": [
+      "Do not lean back.",
+      "Tuck elbows."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-06",
+    "name": "Hammer Curls",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Neutral grip curl targeting biceps and outer arm thickness.",
+    "instructions": [
+      "Hold dumbbells in standing position with neutral grip.",
+      "Curl upward keeping palms facing in.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Maintain neutral wrist posture.",
+      "Focus on slow release."
+    ],
+    "gifUrl": "/gifs/arms-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-07",
+    "name": "Spider Curls",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Lying chest-down on incline bench, isolating biceps at the top.",
+    "instructions": [
+      "Lie face down on incline bench holding barbell below.",
+      "Curl barbell upward toward face.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Do not swing arms.",
+      "Maximize squeeze at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-08",
+    "name": "Preacher Curl (Dumbbell)",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "One-arm dumbbell preacher curls for single arm focusing.",
+    "instructions": [
+      "Sit at preacher bench, brace arm on pad holding dumbbell.",
+      "Curl dumbbell upward.",
+      "Lower with control."
+    ],
+    "tips": [
+      "Do not bounce at bottom.",
+      "Keep arm straight on pad."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-09",
+    "name": "Zottman Curls",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Curling palms up, then rotating to lower palms down, targeting both biceps and forearms.",
+    "instructions": [
+      "Stand holding dumbbells palm up, curl to shoulders.",
+      "Rotate wrists to palms down.",
+      "Lower weights slowly in pronated style."
+    ],
+    "tips": [
+      "Slow down the eccentric phase.",
+      "Rotate fully at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-10",
+    "name": "Chin-ups",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "An excellent compound bodyweight pulling movement targeting biceps and lats.",
+    "instructions": [
+      "Grip bar underhand (palms facing you).",
+      "Pull body up until chin clears bar.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Engage biceps to pull.",
+      "Avoid leg swinging."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-01",
+    "name": "Cable Tricep Pushdown",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Rope attachment tricep pushdown to isolate lateral and long heads.",
+    "instructions": [
+      "Stand upright facing cable machine.",
+      "Push rope straight down extending elbows.",
+      "Slowly return."
+    ],
+    "tips": [
+      "Keep elbows pinned to sides.",
+      "Do not round shoulders."
+    ],
+    "gifUrl": "/gifs/arms-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-02",
+    "name": "Overhead Dumbbell Tricep Extension",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Overhead tricep extension using dumbbell for deep stretching.",
+    "instructions": [
+      "Hold dumbbell above head with both hands.",
+      "Lower weight behind head bending elbows.",
+      "Extend arms straight up."
+    ],
+    "tips": [
+      "Keep elbows narrow.",
+      "Maintain neutral lower back."
+    ],
+    "gifUrl": "/gifs/arms-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-03",
+    "name": "Close Grip Barbell Bench Press",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Heavily overloads the triceps using a compound press.",
+    "instructions": [
+      "Lie on bench holding bar at shoulder-width.",
+      "Lower bar to chest, elbows close.",
+      "Press upward forcefully."
+    ],
+    "tips": [
+      "Keep wrists straight.",
+      "Tuck elbows."
+    ],
+    "gifUrl": "/gifs/arms-07.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-04",
+    "name": "Bench Dips",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Effective tricep dip variation using a bench.",
+    "instructions": [
+      "Place palms on edge of bench, hips forward.",
+      "Lower body by bending elbows.",
+      "Press back up."
+    ],
+    "tips": [
+      "Maintain close proximity to bench.",
+      "Avoid shoulder strain."
+    ],
+    "gifUrl": "/gifs/arms-08.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-05",
+    "name": "Lying Tricep Extension (Skull Crushers)",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Lying barbell extension directly targeting the triceps.",
+    "instructions": [
+      "Lie on flat bench holding EZ bar above face.",
+      "Lower bar toward forehead bending elbows.",
+      "Press bar back to top."
+    ],
+    "tips": [
+      "Keep elbows pointing straight up.",
+      "Control the descent."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-06",
+    "name": "Dumbbell Kickbacks",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Isolates the triceps at maximum contraction.",
+    "instructions": [
+      "Hinge at hips, bend elbows 90 degrees.",
+      "Extend dumbbells straight back behind torso.",
+      "Lower to 90 degrees."
+    ],
+    "tips": [
+      "Keep upper arms parallel to floor.",
+      "Squeeze at extension."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-07",
+    "name": "Single-Arm Cable Pushdown",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Unilateral tricep pushdown to balance strength.",
+    "instructions": [
+      "Grip single D-handle on cable pulley.",
+      "Push hand straight down.",
+      "Slowly return."
+    ],
+    "tips": [
+      "Ensure strict form.",
+      "Hold contraction briefly."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-08",
+    "name": "Dumbbell Overhead Extension",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "One-arm overhead tricep extension.",
+    "instructions": [
+      "Hold dumbbell in one hand above head.",
+      "Lower weight behind head.",
+      "Extend arm upward."
+    ],
+    "tips": [
+      "Support elbow with free hand if needed.",
+      "Avoid twisting torso."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-09",
+    "name": "Parallel Bar Dips",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "Excellent compound arm builder utilizing dip station.",
+    "instructions": [
+      "Mount parallel bars keeping arms straight.",
+      "Lower body keeping torso upright.",
+      "Press back up to lock out."
+    ],
+    "tips": [
+      "Keep body vertical to prioritize triceps over chest.",
+      "Do not lock elbows violently."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-10",
+    "name": "Cable Overhead Rope Extension",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Overhead cable extension using rope attachment.",
+    "instructions": [
+      "Stand facing away from cable pulley with rope behind head.",
+      "Extend arms forward and overhead.",
+      "Slowly return to start."
+    ],
+    "tips": [
+      "Maintain neutral trunk stance.",
+      "Keep elbows in."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-01",
+    "name": "Bodyweight Squat",
+    "bodyPart": "home",
+    "target": "quads",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Essential home lower body squats.",
+    "instructions": [
+      "Stand with feet shoulder-width apart.",
+      "Lower your hips back and down.",
+      "Keep your chest up and back straight.",
+      "Push through your heels to return to standing."
+    ],
+    "tips": [
+      "Don't let your knees cave in.",
+      "Go as deep as comfortable."
+    ],
+    "gifUrl": "/gifs/legs-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-02",
+    "name": "Standard Push-ups",
+    "bodyPart": "home",
+    "target": "pectorals",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Classic home push-ups to condition chest and arms.",
+    "instructions": [
+      "Get into a plank position with hands shoulder-width.",
+      "Lower your body until chest is just above floor.",
+      "Push back up."
+    ],
+    "tips": [
+      "Keep core tight.",
+      "Do them on knees if too hard."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-03",
+    "name": "Forearm Plank",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Home isometric core hold.",
+    "instructions": [
+      "Start in a forearm plank position.",
+      "Ensure body forms straight line.",
+      "Hold position."
+    ],
+    "tips": [
+      "Squeeze glutes and core.",
+      "Do not let hips sag."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-04",
+    "name": "Jumping Jacks",
+    "bodyPart": "home",
+    "target": "cardiovascular system",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "High energy full body cardio warm up.",
+    "instructions": [
+      "Stand upright with legs together.",
+      "Jump up, spreading legs, raising arms overhead.",
+      "Jump again to return to start."
+    ],
+    "tips": [
+      "Maintain stable rhythm.",
+      "Land softly."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-05",
+    "name": "Mountain Climbers",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Rapid bodyweight cardio and core movement.",
+    "instructions": [
+      "Start in top push-up plank position.",
+      "Drive knees to chest alternately in rapid steps.",
+      "Maintain a flat back."
+    ],
+    "tips": [
+      "Do not raise hips high.",
+      "Keep core stable."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-06",
+    "name": "Burpees",
+    "bodyPart": "home",
+    "target": "cardiovascular system",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Intense full-body home conditioning movement.",
+    "instructions": [
+      "Squat down and place hands on floor.",
+      "Jump feet back into push-up stance.",
+      "Return feet to squat position.",
+      "Jump up explosively raising hands."
+    ],
+    "tips": [
+      "Land softly on knees.",
+      "Keep movements continuous."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-07",
+    "name": "Glute Bridges",
+    "bodyPart": "home",
+    "target": "glutes",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Targets glutes and hamstring activation on floor.",
+    "instructions": [
+      "Lie on back, knees bent, feet flat on floor.",
+      "Raise hips driving heels down.",
+      "Squeeze glutes at top, lower slowly."
+    ],
+    "tips": [
+      "Do not arch back excessively.",
+      "Keep knees aligned."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-08",
+    "name": "Lunges (Bodyweight)",
+    "bodyPart": "home",
+    "target": "quads",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Alternating lower body lunges.",
+    "instructions": [
+      "Step forward with one leg.",
+      "Lower hips until front knee is 90 degrees.",
+      "Step back and repeat on other leg."
+    ],
+    "tips": [
+      "Keep upper body vertical.",
+      "Do not let front knee pass toes."
+    ],
+    "gifUrl": "/gifs/legs-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-09",
+    "name": "Bicycle Crunches",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Excellent abdominal oblique developer.",
+    "instructions": [
+      "Lie on back, hands behind head.",
+      "Touch opposite elbow to knee, extending other leg.",
+      "Alternate sides."
+    ],
+    "tips": [
+      "Do not pull neck.",
+      "Move with control."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-10",
+    "name": "Pike Push-up",
+    "bodyPart": "home",
+    "target": "shoulders",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Bodyweight shoulder builder at home.",
+    "instructions": [
+      "Get into push-up stance, walk feet forward raising hips (V-shape).",
+      "Lower head down to floor bending elbows.",
+      "Push back up."
+    ],
+    "tips": [
+      "Keep hips elevated.",
+      "Keep elbows slightly tucked."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-11",
+    "name": "Incline Dumbbell Fly",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "A pectoral fly performed on an incline bench to target upper chest fibers.",
+    "instructions": [
+      "Set an incline bench to 30 degrees.",
+      "Lie back with dumbbells above chest, palms facing each other.",
+      "Lower arms in a wide arc, keeping elbows slightly bent.",
+      "Pull weights back together focusing on chest squeeze."
+    ],
+    "tips": [
+      "Focus on stretching the chest.",
+      "Do not go too heavy to protect shoulders."
+    ],
+    "gifUrl": "/gifs/chest-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-12",
+    "name": "Decline Dumbbell Press",
+    "bodyPart": "chest",
+    "target": "lower pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Dumbbell press on decline bench to focus on lower chest development.",
+    "instructions": [
+      "Secure legs on a decline bench and lie back with dumbbells.",
+      "Hold weights at chest level, palms facing forward.",
+      "Press dumbbells straight up above chest.",
+      "Lower with control to side of chest."
+    ],
+    "tips": [
+      "Control the path of the dumbbells.",
+      "Ensure your legs are securely locked."
+    ],
+    "gifUrl": "/gifs/chest-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-13",
+    "name": "Cable Chest Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Pressing movement using cables to keep continuous tension on the chest.",
+    "instructions": [
+      "Set cable pulleys at chest height.",
+      "Step forward and press handles straight out.",
+      "Bring hands together in front of you.",
+      "Return handles back slowly to chest."
+    ],
+    "tips": [
+      "Keep a stable stance.",
+      "Control the return phase."
+    ],
+    "gifUrl": "/gifs/chest-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-14",
+    "name": "Svend Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Isometric press holding weight plates or dumbbells to contract inner chest.",
+    "instructions": [
+      "Stand holding a weight plate or dumbbell tightly between palms at chest height.",
+      "Press the weight straight out in front of you.",
+      "Squeeze your chest muscles as hard as possible.",
+      "Bring the weight back to your chest."
+    ],
+    "tips": [
+      "Focus purely on the muscular contraction.",
+      "Keep hands pressed together hard."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-15",
+    "name": "Floor Press (Dumbbell)",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Dumbbell press performed on the floor to limit range of motion and focus on chest/triceps.",
+    "instructions": [
+      "Lie on your back on the floor, holding dumbbells at chest level.",
+      "Keep feet flat on the floor with knees bent.",
+      "Press weights up until arms are straight.",
+      "Lower until elbows touch the floor lightly."
+    ],
+    "tips": [
+      "Do not let elbows slam on the floor.",
+      "Excellent choice if you have shoulder pain."
+    ],
+    "gifUrl": "/gifs/chest-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-16",
+    "name": "Landmine Chest Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Angled press targeting upper chest using a landmine setup.",
+    "instructions": [
+      "Stand holding the end of a landmine barbell in both hands at chest level.",
+      "Lean forward slightly into the bar.",
+      "Press the bar up and away from you.",
+      "Slowly return to start."
+    ],
+    "tips": [
+      "Engage your core to maintain stability.",
+      "Press from your palms."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-17",
+    "name": "Hex Press (Squeeze Press)",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Pressing dumbbells while pressing them against each other to maximize inner chest tension.",
+    "instructions": [
+      "Lie on flat bench holding dumbbells pressed together.",
+      "Maintain contact between weights throughout.",
+      "Lower weights to chest, then press upward.",
+      "Squeeze chest at top."
+    ],
+    "tips": [
+      "Apply constant inward pressure.",
+      "Move at a moderate, controlled pace."
+    ],
+    "gifUrl": "/gifs/chest-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-18",
+    "name": "Archer Push-ups",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "Unilateral push-up variation with one arm extending out to the side.",
+    "instructions": [
+      "Get into a wide push-up position.",
+      "Lower your body to one side, bending that elbow while keeping other arm straight.",
+      "Push back up to center.",
+      "Repeat on the opposite side."
+    ],
+    "tips": [
+      "Keep your core locked.",
+      "Go slowly to maintain balance."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-19",
+    "name": "Decline Push-ups",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Push-up variation with feet elevated to target the upper chest region.",
+    "instructions": [
+      "Place feet on an elevated surface like a bench or box.",
+      "Put hands on the floor in push-up stance.",
+      "Lower chest to floor by bending elbows.",
+      "Push back up to extension."
+    ],
+    "tips": [
+      "Do not let lower back sag.",
+      "Keep elbows tucked to 45 degrees."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-20",
+    "name": "Wide Grip Bench Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Bench press variation with a wider grip to recruit more chest and less triceps.",
+    "instructions": [
+      "Lie on flat bench under barbell.",
+      "Grip bar wider than shoulder-width.",
+      "Lower bar slowly to chest.",
+      "Press bar forcefully back to start."
+    ],
+    "tips": [
+      "Do not go excessively wide to protect shoulders.",
+      "Keep shoulder blades retracted."
+    ],
+    "gifUrl": "/gifs/chest-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-21",
+    "name": "Single-Arm Dumbbell Bench Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Pressing one dumbbell at a time to challenge core and correct muscular imbalances.",
+    "instructions": [
+      "Lie on flat bench holding a dumbbell in one hand.",
+      "Press the weight straight up.",
+      "Lower it slowly to chest height.",
+      "Complete reps and swap sides."
+    ],
+    "tips": [
+      "Brace core to keep from falling off bench.",
+      "Keep feet firmly planted."
+    ],
+    "gifUrl": "/gifs/chest-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "chest-22",
+    "name": "Guillotine Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Wide grip press lowering bar to upper chest/neck for maximum pectoral stretch.",
+    "instructions": [
+      "Lie on flat bench under barbell.",
+      "Grip bar very wide.",
+      "Lower bar slowly to collarbone level, flaring elbows.",
+      "Press back up to lock out."
+    ],
+    "tips": [
+      "Use light weights; this is an advanced isolation movement.",
+      "Have a spotter when trying this exercise."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-11",
+    "name": "Lat Pulldown (Underhand Grip)",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Underhand grip pulldown recruiting more biceps and lower lats.",
+    "instructions": [
+      "Sit at lat pulldown station with underhand grip.",
+      "Pull bar down to upper chest.",
+      "Squeeze lats at bottom.",
+      "Return bar slowly."
+    ],
+    "tips": [
+      "Keep elbows tucked close to body.",
+      "Lead with elbows."
+    ],
+    "gifUrl": "/gifs/back-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-12",
+    "name": "Close-Grip Lat Pulldown",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Lat pulldown using a close-grip V-bar to pull through a longer range of motion.",
+    "instructions": [
+      "Attach V-bar to lat pulldown cable.",
+      "Sit and pull handle down to chest.",
+      "Squeeze lats and mid-back.",
+      "Return weight slowly."
+    ],
+    "tips": [
+      "Lean back slightly.",
+      "Keep shoulders down."
+    ],
+    "gifUrl": "/gifs/back-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-13",
+    "name": "Meadows Row",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Unilateral row performed on a landmine setup, named after bodybuilder John Meadows.",
+    "instructions": [
+      "Stand perpendicular to a landmine barbell.",
+      "Hinge over, grab end of bar with one hand.",
+      "Row the bar up, flaring elbow out slightly.",
+      "Lower under control."
+    ],
+    "tips": [
+      "Keep spine neutral.",
+      "Engage rear shoulder and upper back."
+    ],
+    "gifUrl": "/gifs/back-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-14",
+    "name": "Dumbbell Lat Pullover",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Dumbbell pullover focused on stretching and contracting the lats.",
+    "instructions": [
+      "Lie on flat bench holding a dumbbell overhead.",
+      "Lower dumbbell backward in arc behind head.",
+      "Pull weight back up using lats.",
+      "Stop when dumbbell is above forehead."
+    ],
+    "tips": [
+      "Focus on pulling with your elbows.",
+      "Keep elbows slightly bent."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-15",
+    "name": "Barbell Rack Pulls",
+    "bodyPart": "back",
+    "target": "lower back",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Deadlift partial ranges starting from knee level in a power rack to target upper back and traps.",
+    "instructions": [
+      "Set bar on safety pins in power rack at knee height.",
+      "Stand close to bar, grip shoulder-width.",
+      "Hinge hips and pull bar to stand tall.",
+      "Lower back onto pins."
+    ],
+    "tips": [
+      "Squeeze shoulder blades at top.",
+      "Keep back straight."
+    ],
+    "gifUrl": "/gifs/back-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-16",
+    "name": "Chest-Supported Dumbbell Row",
+    "bodyPart": "back",
+    "target": "middle back",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Incline bench row eliminating lower back strain and momentum.",
+    "instructions": [
+      "Lie chest down on incline bench set to 30 degrees.",
+      "Hold dumbbells hanging down.",
+      "Row dumbbells up toward ribs.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Brace chest against pad.",
+      "Squeeze shoulder blades at peak."
+    ],
+    "gifUrl": "/gifs/back-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-17",
+    "name": "Pendlay Row",
+    "bodyPart": "back",
+    "target": "middle back",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Strict barbell row starting from floor on every rep, named after coach Glenn Pendlay.",
+    "instructions": [
+      "Stand over barbell, hinge flat-backed.",
+      "Grip bar and row forcefully to upper chest.",
+      "Lower bar completely back to floor."
+    ],
+    "tips": [
+      "Do not raise torso during pull.",
+      "Ensure strict control."
+    ],
+    "gifUrl": "/gifs/back-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-18",
+    "name": "Renegade Row",
+    "bodyPart": "back",
+    "target": "middle back",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Plank row challenge targeting core stability and back muscles.",
+    "instructions": [
+      "Get into push-up stance holding dumbbells.",
+      "Row one dumbbell to ribcage while balancing on other.",
+      "Lower and repeat on opposite side."
+    ],
+    "tips": [
+      "Minimize hip rotation.",
+      "Keep feet wide for balance."
+    ],
+    "gifUrl": "/gifs/back-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-19",
+    "name": "Inverted Row",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Horizontal bodyweight pull beneath bar to build pulling foundation.",
+    "instructions": [
+      "Set bar in rack at waist height.",
+      "Lie beneath bar, grab overhand.",
+      "Pull chest up to bar, keeping body straight.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep heels on floor, body flat.",
+      "Squeeze shoulder blades."
+    ],
+    "gifUrl": "/gifs/back-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-20",
+    "name": "Barbell Shrugs",
+    "bodyPart": "back",
+    "target": "traps",
+    "equipment": "barbell",
+    "difficulty": "Beginner",
+    "description": "Barbell lift targeting the upper trapezius.",
+    "instructions": [
+      "Stand holding barbell in front of thighs.",
+      "Shrug shoulders straight up.",
+      "Squeeze, then lower slowly."
+    ],
+    "tips": [
+      "Do not roll shoulders.",
+      "Keep arms fully extended."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-21",
+    "name": "Good Mornings",
+    "bodyPart": "back",
+    "target": "lower back",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Barbell hip hinge strengthening lower back, hamstrings, and glutes.",
+    "instructions": [
+      "Rest barbell across upper back.",
+      "Hinge hips back, lowering flat torso forward.",
+      "Lower until parallel, then stand."
+    ],
+    "tips": [
+      "Keep knees slightly soft.",
+      "Maintain neutral spine."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "back-22",
+    "name": "Snatch-Grip Deadlift",
+    "bodyPart": "back",
+    "target": "lower back",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Wide grip deadlift increasing depth and targeting upper back, traps, and hamstrings.",
+    "instructions": [
+      "Stand at barbell with wide grip.",
+      "Squat low and pull barbell up to hips.",
+      "Stand tall, then lower bar slowly."
+    ],
+    "tips": [
+      "Requires good hip mobility.",
+      "Keep spine straight."
+    ],
+    "gifUrl": "/gifs/back-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-11",
+    "name": "Front Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Squat with barbell held in front rack, targeting quads and upright trunk stance.",
+    "instructions": [
+      "Rest barbell on front of shoulders.",
+      "Squat down keeping elbows high.",
+      "Maintain upright chest.",
+      "Drive back to stand."
+    ],
+    "tips": [
+      "Keep elbows pointing forward.",
+      "Focus on core tightness."
+    ],
+    "gifUrl": "/gifs/legs-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-12",
+    "name": "Hack Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "machine",
+    "difficulty": "Intermediate",
+    "description": "Machine squat offering safe platform to overload quadriceps.",
+    "instructions": [
+      "Position back against machine pad.",
+      "Place feet shoulder-width on platform.",
+      "Lower platform bending knees.",
+      "Press platform back up."
+    ],
+    "tips": [
+      "Do not lock knees.",
+      "Keep back flat to pad."
+    ],
+    "gifUrl": "/gifs/legs-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-13",
+    "name": "Wide Stance Leg Press",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "machine",
+    "difficulty": "Intermediate",
+    "description": "Leg press variation focusing on inner thigh and glutes.",
+    "instructions": [
+      "Place feet wide on leg press platform.",
+      "Lower platform slowly to chest.",
+      "Press platform back up."
+    ],
+    "tips": [
+      "Keep feet flat.",
+      "Control the weight."
+    ],
+    "gifUrl": "/gifs/legs-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-14",
+    "name": "Narrow Stance Leg Press",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "machine",
+    "difficulty": "Intermediate",
+    "description": "Leg press variation isolating the outer quadriceps sweep.",
+    "instructions": [
+      "Place feet close together on center platform.",
+      "Lower weight slowly.",
+      "Press back to start."
+    ],
+    "tips": [
+      "Maintain controlled motion.",
+      "Focus on outer quads."
+    ],
+    "gifUrl": "/gifs/legs-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-15",
+    "name": "Stiff-Legged Deadlift",
+    "bodyPart": "legs",
+    "target": "hamstrings",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Deadlift with straight legs targeting hamstrings and glutes from the floor.",
+    "instructions": [
+      "Stand holding barbell with feet hip-width.",
+      "Keep legs straight, knees slightly soft.",
+      "Hinge hips back, lowering bar to floor.",
+      "Squeeze glutes to stand."
+    ],
+    "tips": [
+      "Do not let back round.",
+      "Keep bar close to legs."
+    ],
+    "gifUrl": "/gifs/legs-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-16",
+    "name": "Sumo Deadlift",
+    "bodyPart": "legs",
+    "target": "glutes",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Deadlift with wide stance and narrow grip targeting glutes, inner thighs, and back.",
+    "instructions": [
+      "Stand with wide stance, toes out.",
+      "Grip bar narrow between knees.",
+      "Drop hips, lift chest, and stand with bar."
+    ],
+    "tips": [
+      "Drive knees out.",
+      "Keep back straight."
+    ],
+    "gifUrl": "/gifs/legs-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-17",
+    "name": "Step-ups (Dumbbell)",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Step-up on box to train legs unilaterally.",
+    "instructions": [
+      "Hold dumbbells, place one foot on box.",
+      "Step up pushing through front heel.",
+      "Lower down slowly."
+    ],
+    "tips": [
+      "Drive hips forward at top.",
+      "Step down softly."
+    ],
+    "gifUrl": "/gifs/legs-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-18",
+    "name": "Sissy Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "Bodyweight leg flexion targeting isolated quad fibers.",
+    "instructions": [
+      "Hold support, lean torso back.",
+      "Bend knees, lowering heels off floor.",
+      "Push back to stand using quads."
+    ],
+    "tips": [
+      "Maintain straight line from knees to head.",
+      "Use support for safety."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-19",
+    "name": "Lying Leg Curls",
+    "bodyPart": "legs",
+    "target": "hamstrings",
+    "equipment": "machine",
+    "difficulty": "Beginner",
+    "description": "Lying hamstring isolation curl.",
+    "instructions": [
+      "Lie face down on machine.",
+      "Curl pad to glutes.",
+      "Squeeze hamstrings.",
+      "Lower pad slowly."
+    ],
+    "tips": [
+      "Keep hips flat on pad.",
+      "Avoid using lower back."
+    ],
+    "gifUrl": "/gifs/legs-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-20",
+    "name": "Seated Calf Raises",
+    "bodyPart": "legs",
+    "target": "calves",
+    "equipment": "machine",
+    "difficulty": "Beginner",
+    "description": "Seated raise targeting the soleus calf muscle.",
+    "instructions": [
+      "Sit in machine, place pad on knees.",
+      "Lower heels down fully.",
+      "Push up onto toes.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Control the stretch.",
+      "Hold peak contraction."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-21",
+    "name": "Jefferson Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Straddle squat lift building quadriceps and inner thigh size.",
+    "instructions": [
+      "Straddle barbell lengthwise.",
+      "Grip front and back of bar.",
+      "Squat down keeping torso upright."
+    ],
+    "tips": [
+      "Keep weights balanced.",
+      "Do not twist spine."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "legs-22",
+    "name": "Zercher Squat",
+    "bodyPart": "legs",
+    "target": "quads",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Squat holding barbell in crooks of elbows, challenging core and quads.",
+    "instructions": [
+      "Hold barbell inside crooks of elbows.",
+      "Keep chest up, core braced.",
+      "Squat down to parallel.",
+      "Press to stand."
+    ],
+    "tips": [
+      "Use pad on bar for comfort.",
+      "Maintain tight core brace."
+    ],
+    "gifUrl": "/gifs/legs-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-11",
+    "name": "Barbell Clean and Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Dynamic full body movement cleaning bar to shoulders and pressing overhead.",
+    "instructions": [
+      "Clean barbell from floor to shoulders.",
+      "Dip knees slightly, then press bar overhead.",
+      "Lower to shoulders, then to floor."
+    ],
+    "tips": [
+      "Keep motion fluid.",
+      "Maintain flat back on pull."
+    ],
+    "gifUrl": "/gifs/shoulders-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-12",
+    "name": "Push Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Overhead press using leg drive to push heavier weight.",
+    "instructions": [
+      "Hold barbell at shoulders.",
+      "Dip hips slightly, then drive legs straight.",
+      "Use momentum to press bar overhead."
+    ],
+    "tips": [
+      "Brace core.",
+      "Lock out arms at top."
+    ],
+    "gifUrl": "/gifs/shoulders-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-13",
+    "name": "Behind the Neck Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Overhead press behind the neck to focus on lateral/posterior delts.",
+    "instructions": [
+      "Rest bar on upper traps.",
+      "Press bar straight overhead.",
+      "Lower bar slowly to traps."
+    ],
+    "tips": [
+      "Requires excellent shoulder mobility.",
+      "Go light."
+    ],
+    "gifUrl": "/gifs/shoulders-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-14",
+    "name": "Dumbbell Rear Delt Row",
+    "bodyPart": "shoulders",
+    "target": "rear delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Rowing dumbbells while flaring elbows to emphasize rear shoulder muscles.",
+    "instructions": [
+      "Hinge forward holding dumbbells.",
+      "Row dumbbells up keeping elbows out wide.",
+      "Squeeze rear shoulders."
+    ],
+    "tips": [
+      "Do not squeeze scapula to isolate delts.",
+      "Control the weight."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-15",
+    "name": "Y-Raises (Dumbbell)",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Lying face-down raising dumbbells in Y-shape to target traps and shoulders.",
+    "instructions": [
+      "Lie face down on incline bench.",
+      "Raise dumbbells out at 45 degree angles (Y shape).",
+      "Squeeze shoulders."
+    ],
+    "tips": [
+      "Thumbs pointing up.",
+      "Do not swing weights."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-16",
+    "name": "Lu Raises",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Full lateral raise going overhead, named after weightlifter Lu Xiaojun.",
+    "instructions": [
+      "Hold light dumbbells, raise out to sides.",
+      "Continue raising weights all the way overhead.",
+      "Lower slowly back to sides."
+    ],
+    "tips": [
+      "Keep arms straight.",
+      "Focus on control."
+    ],
+    "gifUrl": "/gifs/shoulder-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-17",
+    "name": "Dumbbell W-Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Shoulder press variation holding weights in W shape to engage rotators.",
+    "instructions": [
+      "Sit holding dumbbells, arms angled down (W-shape).",
+      "Press dumbbells upward.",
+      "Lower back to W position."
+    ],
+    "tips": [
+      "Control shoulder stability.",
+      "Keep elbows slightly forward."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-18",
+    "name": "Barbell High Pull",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Explosive pull to upper chest building shoulder speed and power.",
+    "instructions": [
+      "Hinge holding barbell.",
+      "Pull bar explosively up to chest, elbows high.",
+      "Lower bar slowly."
+    ],
+    "tips": [
+      "Utilize hip drive.",
+      "Keep bar close to body."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-19",
+    "name": "Single-Arm Landmine Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Standing single-arm landmine press built for shoulder rehabilitation and power.",
+    "instructions": [
+      "Hold end of landmine bar in one hand at shoulder.",
+      "Press bar upward and forward.",
+      "Slowly return to shoulder."
+    ],
+    "tips": [
+      "Brace core.",
+      "Keep hips stable."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-20",
+    "name": "Cable Rear Delt Fly",
+    "bodyPart": "shoulders",
+    "target": "rear delts",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Rear delt cable isolation movement.",
+    "instructions": [
+      "Stand in cable machine crossover setup.",
+      "Grab opposite cables without handles.",
+      "Pull arms back in wide horizontal arc."
+    ],
+    "tips": [
+      "Squeeze rear delts.",
+      "Maintain slight elbow bend."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-21",
+    "name": "Dumbbell 6-Way Shoulder Raise",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "Advanced",
+    "description": "Complete lateral, front, overhead, and reverse shoulder combination raise.",
+    "instructions": [
+      "Lateral raise, move weights forward to front raise.",
+      "Raise weights overhead, lower back to front raise.",
+      "Move weights out to lateral, lower to sides."
+    ],
+    "tips": [
+      "Use very light dumbbells.",
+      "Maintain constant shoulder tension."
+    ],
+    "gifUrl": "/gifs/shoulder-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "shoulders-22",
+    "name": "Incline Dumbbell Rear Delt Raise",
+    "bodyPart": "shoulders",
+    "target": "rear delts",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Lying chest-down on incline bench isolating posterior delts.",
+    "instructions": [
+      "Lie chest down on incline bench.",
+      "Raise dumbbells out to sides, elbows bent slightly.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Focus on back shoulder pull.",
+      "Keep neck relaxed."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-11",
+    "name": "Cable Preacher Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Preacher pad curl using cable pulley for continuous tension.",
+    "instructions": [
+      "Set preacher bench in front of low pulley.",
+      "Grip cable attachment and rest arms on pad.",
+      "Curl bar upward.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Do not lift elbows.",
+      "Maintain tension at bottom."
+    ],
+    "gifUrl": "/gifs/arms-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-12",
+    "name": "Cable Concentration Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Concentration curl using single cable pulley.",
+    "instructions": [
+      "Hold single cable pulley, bend over slightly.",
+      "Brace elbow against thigh, curl handle up.",
+      "Slowly lower."
+    ],
+    "tips": [
+      "Isolate arm swing.",
+      "Hold peak contraction."
+    ],
+    "gifUrl": "/gifs/arms-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-13",
+    "name": "Dumbbell Pinwheel Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Hammer curl variation curling weight across body to opposite shoulder.",
+    "instructions": [
+      "Hold dumbbells at sides.",
+      "Curl one dumbbell across chest to opposite shoulder.",
+      "Lower slowly and alternate."
+    ],
+    "tips": [
+      "Keep palm neutral.",
+      "Squeeze forearm/bicep."
+    ],
+    "gifUrl": "/gifs/arms-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-14",
+    "name": "Dumbbell Drag Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Curl dragging dumbbells straight up torso to isolate biceps.",
+    "instructions": [
+      "Hold dumbbells in front of thighs.",
+      "Curl weights straight up torso, pushing elbows back.",
+      "Squeeze biceps, lower slowly."
+    ],
+    "tips": [
+      "Keep weights in contact with body.",
+      "Do not swing shoulders."
+    ],
+    "gifUrl": "/gifs/arms-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-15",
+    "name": "Dumbbell Tate Press",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Lying press flaring elbows out to target triceps.",
+    "instructions": [
+      "Lie on bench holding dumbbells above chest.",
+      "Lower weights inward to touch chest, elbows out.",
+      "Press weights straight up using triceps."
+    ],
+    "tips": [
+      "Keep dumbbells close together.",
+      "Control the stretch."
+    ],
+    "gifUrl": "/gifs/arms-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-16",
+    "name": "Dumbbell JM Press",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Advanced",
+    "description": "Bench press and skull crusher hybrid designed by JM Blakley.",
+    "instructions": [
+      "Lie on bench holding dumbbells.",
+      "Lower weights to throat bending elbows.",
+      "Press weights up."
+    ],
+    "tips": [
+      "Keep elbows tucked slightly.",
+      "Perform with care."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-17",
+    "name": "Overhand Grip Cable Wrist Curl",
+    "bodyPart": "arms",
+    "target": "forearms",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Wrist extensor isolation using low pulley.",
+    "instructions": [
+      "Sit facing low pulley with bar attachment.",
+      "Rest forearms on thighs, grip bar overhand.",
+      "Flex wrists upward."
+    ],
+    "tips": [
+      "Keep forearms glued to thighs.",
+      "Squeeze at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-18",
+    "name": "Pinch Block Holds",
+    "bodyPart": "arms",
+    "target": "forearms",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Isometric grip squeeze using pinch block/plates.",
+    "instructions": [
+      "Hold weight plates together smooth side out.",
+      "Pinch plates between fingers and thumb.",
+      "Hold for max duration."
+    ],
+    "tips": [
+      "Keep posture straight.",
+      "Keep weight off feet."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-19",
+    "name": "Plate Curls",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Bicep curl holding weight plate to build wrist strength.",
+    "instructions": [
+      "Grip weight plate by edges.",
+      "Curl plate upward to chin.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Squeeze plate hard.",
+      "Maintain straight wrists."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-20",
+    "name": "Bodyweight Tricep Extensions",
+    "bodyPart": "arms",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Horizontal bodyweight extension beneath a bar or on the floor.",
+    "instructions": [
+      "Grip bar at waist height, lean forward.",
+      "Bend elbows, lowering head below bar.",
+      "Press body away extending triceps."
+    ],
+    "tips": [
+      "Maintain solid core plank.",
+      "Control extension depth."
+    ],
+    "gifUrl": "/gifs/arms-08.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-21",
+    "name": "Towel Pull-ups",
+    "bodyPart": "arms",
+    "target": "forearms",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "Pull-ups holding towels to heavily tax grip and forearms.",
+    "instructions": [
+      "Hang two towels from pull-up bar.",
+      "Grab towels securely, hang fully.",
+      "Pull body up until chin clears hands."
+    ],
+    "tips": [
+      "Squeeze towels as hard as possible.",
+      "Requires strong baseline pull strength."
+    ],
+    "gifUrl": "/gifs/back-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "arms-22",
+    "name": "Fat Gripz Bicep Curl",
+    "bodyPart": "arms",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "EZ bar curls using thick grips to activate forearm fibers.",
+    "instructions": [
+      "Place thick grips on barbell.",
+      "Grip and curl bar.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Do not let grip slip.",
+      "Engages all wrist stabilizers."
+    ],
+    "gifUrl": "/gifs/arms-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-11",
+    "name": "Incline Hammer Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Hammer curls on incline bench to stretch bicep long head.",
+    "instructions": [
+      "Lie back on incline bench holding dumbbells palms in.",
+      "Curl weights up maintaining neutral grip.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep shoulders back.",
+      "Control the swing."
+    ],
+    "gifUrl": "/gifs/arms-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-12",
+    "name": "Cross-Body Hammer Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Hammer curl lifting dumbbell to opposite chest.",
+    "instructions": [
+      "Hold dumbbells palms in.",
+      "Curl weight across torso to opposite side of chest.",
+      "Lower and repeat on opposite side."
+    ],
+    "tips": [
+      "Keep wrist straight.",
+      "Isolate the bicep brachii."
+    ],
+    "gifUrl": "/gifs/arms-02.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-13",
+    "name": "Cable Rope Hammer Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Hammer curl using low cable pulley with rope attachment.",
+    "instructions": [
+      "Stand holding cable rope palms facing.",
+      "Curl rope upward to chest.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Maintain neutral wrist angle.",
+      "Squeeze at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-14",
+    "name": "High Cable Curl (Hercules Curl)",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Standing between high pulley cables, curling handles to head.",
+    "instructions": [
+      "Stand centered in cable machine holding high pulley handles.",
+      "Curl hands inward to head, elbows kept high.",
+      "Lower back slowly."
+    ],
+    "tips": [
+      "Keep upper arms parallel to floor.",
+      "Squeeze peak contraction."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-15",
+    "name": "Dumbbell Waiter Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Holding a single dumbbell by the flat head with both palms up to isolate biceps.",
+    "instructions": [
+      "Stand holding dumbbell head with both palms facing up.",
+      "Curl weight up to chest.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep elbows tucked.",
+      "Maintain palms flat under the dumbbell weight."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-16",
+    "name": "Concentration Curl (Incline Bench)",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Chest-supported concentration curls on incline bench.",
+    "instructions": [
+      "Lie chest down on incline bench.",
+      "Curl dumbbell with single arm hanging.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep arm vertical.",
+      "Squeeze at peak."
+    ],
+    "gifUrl": "/gifs/arms-05.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-17",
+    "name": "Reverse EZ Bar Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Beginner",
+    "description": "Reverse grip barbell curls targeting biceps and brachialis.",
+    "instructions": [
+      "Hold EZ bar overhand.",
+      "Curl bar upward.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep wrists stable.",
+      "Minimize shoulder involvement."
+    ],
+    "gifUrl": "/gifs/arms-06.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-18",
+    "name": "Lying Cable Bicep Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Lying flat on floor, curling cable pulley bar to eliminate momentum.",
+    "instructions": [
+      "Lie on back on floor in front of low pulley.",
+      "Hold bar attachment, curl bar to chin.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep upper arms pinned to floor.",
+      "Squeeze hard at top."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-19",
+    "name": "Cheat Curls (Barbell)",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Heavy barbell curl using slight hip drive to overload the eccentric phase.",
+    "instructions": [
+      "Hold heavy barbell in standing position.",
+      "Use slight hip hinge/drive to curl bar up.",
+      "Lower bar slowly under strict 3-second eccentric release."
+    ],
+    "tips": [
+      "Keep eccentric phase strictly controlled.",
+      "Avoid excessive arching of lower back."
+    ],
+    "gifUrl": "/gifs/arms-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-20",
+    "name": "Preacher Curl (Machine)",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "machine",
+    "difficulty": "Beginner",
+    "description": "Preacher curls on machine for safety and isolation.",
+    "instructions": [
+      "Sit at machine, place arms on pad.",
+      "Pull handles up to shoulders.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Keep shoulders down.",
+      "Do not hyperextend elbows."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-21",
+    "name": "Drag Curl (Barbell)",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Barbell bicep curls dragging the bar straight up the chest.",
+    "instructions": [
+      "Stand holding barbell.",
+      "Pull bar straight up chest, elbows driving back.",
+      "Squeeze and lower slowly."
+    ],
+    "tips": [
+      "Keep shoulders locked down.",
+      "Bar should glide along shirt."
+    ],
+    "gifUrl": "/gifs/arms-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "bicep-22",
+    "name": "Outer Head Dumbbell Bicep Curl",
+    "bodyPart": "bicep",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Bicep curl holding dumbbells and curling them inward to emphasize outer head.",
+    "instructions": [
+      "Stand holding dumbbells palms forward.",
+      "Curl weights inward toward shoulders.",
+      "Lower slowly."
+    ],
+    "tips": [
+      "Rotate wrists slightly inward at top.",
+      "Control the movement."
+    ],
+    "gifUrl": "/gifs/arms-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-11",
+    "name": "Single-Arm Overhead Dumbbell Extension",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Unilateral overhead extension isolating tricep long head.",
+    "instructions": [
+      "Hold dumbbell in one hand above head.",
+      "Lower weight behind neck bending elbow.",
+      "Extend arm straight overhead."
+    ],
+    "tips": [
+      "Keep elbow facing forward.",
+      "Avoid neck twisting."
+    ],
+    "gifUrl": "/gifs/arms-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-12",
+    "name": "Cable V-Bar Pushdown",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Tricep pushdown using solid V-Bar attachment.",
+    "instructions": [
+      "Grip V-Bar on high pulley.",
+      "Push bar down until arms are straight.",
+      "Squeeze, then return slowly."
+    ],
+    "tips": [
+      "Keep elbows tucked.",
+      "Control the return."
+    ],
+    "gifUrl": "/gifs/arms-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-13",
+    "name": "Reverse Grip Cable Pushdown",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Pushdown with underhand grip to emphasize medial tricep head.",
+    "instructions": [
+      "Attach straight bar, grip underhand.",
+      "Push bar down extending elbows.",
+      "Return slowly."
+    ],
+    "tips": [
+      "Keep wrists straight.",
+      "Keep elbows stationary."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-14",
+    "name": "Tate Press (Dumbbell)",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Lying flat bench tricep extension targeting lateral head.",
+    "instructions": [
+      "Lie on flat bench holding dumbbells above chest.",
+      "Lower weights inward until they touch upper chest.",
+      "Extend elbows straight up."
+    ],
+    "tips": [
+      "Focus on elbow flex.",
+      "Keep weights controlled."
+    ],
+    "gifUrl": "/gifs/arms-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-15",
+    "name": "Dumbbell Floor Press (Tricep focus)",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Beginner",
+    "description": "Floor press keeping elbows tucked to focus purely on triceps.",
+    "instructions": [
+      "Lie on floor holding dumbbells.",
+      "Keep elbows tucked close to torso.",
+      "Press weights up.",
+      "Lower until elbows touch floor."
+    ],
+    "tips": [
+      "Limit range to 90 degrees at elbow.",
+      "Keep shoulders stable."
+    ],
+    "gifUrl": "/gifs/arms-07.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-16",
+    "name": "Weighted Bench Dips",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Bench dips placing weight plates on lap to increase difficulty.",
+    "instructions": [
+      "Sit on edge of bench, place plates on lap.",
+      "Put hands on bench edge and lower body.",
+      "Press back up using triceps."
+    ],
+    "tips": [
+      "Ensure weight is stable on lap.",
+      "Keep close to bench."
+    ],
+    "gifUrl": "/gifs/arms-08.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-17",
+    "name": "Cable Kickbacks",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Beginner",
+    "description": "Cable tricep kickback offering continuous tension.",
+    "instructions": [
+      "Hinge in front of low pulley.",
+      "Grip cable, extend arm straight back.",
+      "Lower slowly to 90 degrees."
+    ],
+    "tips": [
+      "Keep upper arm pinned.",
+      "Minimize arm swinging."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-18",
+    "name": "Incline Dumbbell Overhead Tricep Extension",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Overhead dumbbell extension performed on incline bench.",
+    "instructions": [
+      "Lie back on incline bench holding dumbbell.",
+      "Extend weight overhead behind you.",
+      "Return to top position."
+    ],
+    "tips": [
+      "Keep elbows narrow.",
+      "Focus on the stretch."
+    ],
+    "gifUrl": "/gifs/arms-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-19",
+    "name": "EZ Bar Tricep Extension (Decline Bench)",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "barbell",
+    "difficulty": "Intermediate",
+    "description": "Skull crusher variant on decline bench increasing tricep long head stretch.",
+    "instructions": [
+      "Lie on decline bench holding EZ bar.",
+      "Lower bar behind head bending elbows.",
+      "Press bar back to top."
+    ],
+    "tips": [
+      "Control the bar path.",
+      "Avoid locking elbows aggressively."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-20",
+    "name": "Diamond Push-ups (Tricep focus)",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Push-ups with close hand placement to focus load on triceps.",
+    "instructions": [
+      "Hands close on floor forming diamond shape.",
+      "Lower chest to hands.",
+      "Press back up."
+    ],
+    "tips": [
+      "Keep body rigid in plank.",
+      "Tuck elbows."
+    ],
+    "gifUrl": "/gifs/arms-08.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-21",
+    "name": "Underhand Grip Barbell Press",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "barbell",
+    "difficulty": "Advanced",
+    "description": "Underhand grip bench press shifting load to upper chest and triceps.",
+    "instructions": [
+      "Lie on flat bench under barbell.",
+      "Grip bar with underhand grip.",
+      "Lower bar to chest keeping elbows tucked.",
+      "Press up."
+    ],
+    "tips": [
+      "Use moderate weight to protect wrists.",
+      "Highly advanced movement."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "tricep-22",
+    "name": "One-Arm Cable Overhead Tricep Extension",
+    "bodyPart": "tricep",
+    "target": "triceps",
+    "equipment": "cable",
+    "difficulty": "Intermediate",
+    "description": "Unilateral overhead extension using cable rope pulley.",
+    "instructions": [
+      "Stand facing away from cable machine.",
+      "Extend single cable attachment overhead.",
+      "Lower slowly behind head."
+    ],
+    "tips": [
+      "Keep core braced.",
+      "Ensure stable arm position."
+    ],
+    "gifUrl": "/gifs/arms-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-11",
+    "name": "Archer Push-ups (Home)",
+    "bodyPart": "home",
+    "target": "pectorals",
+    "equipment": "body weight",
+    "difficulty": "Advanced",
+    "description": "Archer push-ups using floor support.",
+    "instructions": [
+      "Wide push-up stance.",
+      "Lower body unilaterally to one hand.",
+      "Push back up."
+    ],
+    "tips": [
+      "Maintain strong core.",
+      "Control depth."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-12",
+    "name": "Diamond Push-ups (Home)",
+    "bodyPart": "home",
+    "target": "triceps",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Close grip push-ups at home to build triceps.",
+    "instructions": [
+      "Place hands in diamond shape.",
+      "Lower chest to floor.",
+      "Press up."
+    ],
+    "tips": [
+      "Tuck elbows.",
+      "Do on knees if too heavy."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-13",
+    "name": "Decline Push-ups (Home)",
+    "bodyPart": "home",
+    "target": "pectorals",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Decline push-ups using home chair/bed elevation.",
+    "instructions": [
+      "Feet on chair, hands on floor.",
+      "Lower chest to floor.",
+      "Press back up."
+    ],
+    "tips": [
+      "Keep back flat.",
+      "Control speed."
+    ],
+    "gifUrl": "/gifs/chest-03.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-14",
+    "name": "Pike Push-up (Home)",
+    "bodyPart": "home",
+    "target": "shoulders",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Bodyweight home shoulder press.",
+    "instructions": [
+      "Walk feet in raising hips to V shape.",
+      "Lower head to floor.",
+      "Press up."
+    ],
+    "tips": [
+      "Keep hips high.",
+      "Keep elbows tucked slightly."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-15",
+    "name": "Plio Squat Jump (Jump Squat)",
+    "bodyPart": "home",
+    "target": "legs",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Explosive squat jumps to build lower body power and burn calories.",
+    "instructions": [
+      "Squat down.",
+      "Jump up explosively.",
+      "Land softly back into squat."
+    ],
+    "tips": [
+      "Land on mid-foot.",
+      "Maintain steady speed."
+    ],
+    "gifUrl": "/gifs/legs-01.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-16",
+    "name": "Bulgarian Split Squat (Bodyweight)",
+    "bodyPart": "home",
+    "target": "legs",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Unilateral leg squat using couch/chair support.",
+    "instructions": [
+      "Place rear foot on couch.",
+      "Squat down until front leg is 90 degrees.",
+      "Push back to top."
+    ],
+    "tips": [
+      "Keep chest up.",
+      "Brace trunk balance."
+    ],
+    "gifUrl": "/gifs/legs-04.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-17",
+    "name": "Single-Leg Glute Bridge",
+    "bodyPart": "home",
+    "target": "glutes",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Unilateral glute bridge raising one leg.",
+    "instructions": [
+      "Lie on back, bend knees.",
+      "Raise one leg straight up.",
+      "Drive hips up using other heel.",
+      "Squeeze glutes and lower."
+    ],
+    "tips": [
+      "Keep hips level.",
+      "Do not arch lower back."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-18",
+    "name": "Flutter Kicks",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Lower abdominal conditioning kicking legs rapidly.",
+    "instructions": [
+      "Lie on back, hands under hips.",
+      "Raise legs slightly, kick up/down alternately.",
+      "Breathe steadily."
+    ],
+    "tips": [
+      "Keep lower back flat to floor.",
+      "Engage abs throughout."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-19",
+    "name": "Russian Twists",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Seated twisting targeting obliques.",
+    "instructions": [
+      "Sit on floor, lean back slightly.",
+      "Raise feet off floor.",
+      "Twist hands/torso side to side."
+    ],
+    "tips": [
+      "Keep core tight.",
+      "Move slowly for best contraction."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-20",
+    "name": "Dead Bug",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Deep core stability movement improving trunk control.",
+    "instructions": [
+      "Lie on back, arms up, knees at 90 degrees.",
+      "Lower opposite arm and leg to floor.",
+      "Return to center and alternate."
+    ],
+    "tips": [
+      "Keep lower back flat.",
+      "Exhale on extension."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-21",
+    "name": "Hollow Body Hold",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Gymnastics core hold bracing entire abdominal wall.",
+    "instructions": [
+      "Lie on back, raise head and legs.",
+      "Extend arms overhead.",
+      "Keep lower back flat, hold shape."
+    ],
+    "tips": [
+      "Squeeze abs hard.",
+      "Keep legs straight."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-22",
+    "name": "Superman Hold",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Strengthens lower back and glutes in face-down hold.",
+    "instructions": [
+      "Lie face down on floor.",
+      "Raise arms, chest, and legs off floor.",
+      "Hold position."
+    ],
+    "tips": [
+      "Squeeze lower back/glutes.",
+      "Do not crank neck up."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-23",
+    "name": "Side Plank (Left & Right)",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Lateral core bridge targeting the obliques.",
+    "instructions": [
+      "Lie on side supported by forearm.",
+      "Raise hips creating straight line.",
+      "Hold for duration."
+    ],
+    "tips": [
+      "Keep hips stacked.",
+      "Engage side abs."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-24",
+    "name": "Bear Crawl",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Quadrupedal crawl challenging shoulder stability and core.",
+    "instructions": [
+      "Get on hands and toes, knees hovering above floor.",
+      "Crawl forward alternating hand/foot steps.",
+      "Keep hips low."
+    ],
+    "tips": [
+      "Keep back flat.",
+      "Move slowly and dynamically."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-25",
+    "name": "Inchworm",
+    "bodyPart": "home",
+    "target": "core",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Crawl hands forward from stand, stretching hamstrings and training shoulders.",
+    "instructions": [
+      "Stand, bend to touch toes.",
+      "Walk hands forward to plank position.",
+      "Walk feet forward to hands."
+    ],
+    "tips": [
+      "Keep legs straight to stretch.",
+      "Control hand steps."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "home-26",
+    "name": "High Knees",
+    "bodyPart": "home",
+    "target": "cardiovascular system",
+    "equipment": "body weight",
+    "difficulty": "Beginner",
+    "description": "Rapid high running in place to spike heart rate.",
+    "instructions": [
+      "Run in place driving knees up to hip height.",
+      "Pump arms in rhythm.",
+      "Land softly on toes."
+    ],
+    "tips": [
+      "Keep upright posture.",
+      "Move quickly."
+    ],
+    "gifUrl": "/gifs/fallback-exercise.gif",
+    "videoUrl": ""
+  },
+  {
+    "id": "ex_dumbbell_bench_press_wk7",
+    "name": "Dumbbell Bench Press",
+    "bodyPart": "chest",
+    "target": "Pectorals, Anterior Deltoids, Triceps",
+    "equipment": "dumbbell, bench",
+    "difficulty": "Intermediate",
+    "description": "Maintain a slight arch in your lower back, keeping your shoulder blades squeezed together. Control the weight on the way down, don't let gravity do the work. Focus on squeezing your chest at the top of the movement.",
+    "instructions": [
+      "Lie on a flat bench with a dumbbell in each hand, palms facing each other.",
+      "Press the dumbbells straight up until your arms are fully extended, but do not lock your elbows.",
+      "Slowly lower the dumbbells back down to the sides of your chest, feeling a stretch in your chest.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "gifUrl": "",
+    "videoUrl": ""
+  },
+  {
+    "id": "ex_dumbbell_overhead_press_vry",
+    "name": "Dumbbell Overhead Press",
+    "bodyPart": "shoulders",
+    "target": "Deltoids, Triceps",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Keep your core tight to protect your lower back, especially if standing. Maintain a controlled movement; don't let the weights drop rapidly. Focus on driving the weight directly upwards.",
+    "instructions": [
+      "Sit or stand with a dumbbell in each hand, resting on your shoulders, palms facing forward.",
+      "Brace your core and press the dumbbells straight overhead until your arms are fully extended.",
+      "Avoid locking your elbows at the top.",
+      "Slowly lower the dumbbells back to the starting position on your shoulders."
+    ],
+    "gifUrl": "",
+    "videoUrl": ""
+  },
+  {
+    "id": "ex_dumbbell_romanian_deadlift__rdl__44e",
+    "name": "Dumbbell Romanian Deadlift (RDL)",
+    "bodyPart": "legs",
+    "target": "Hamstrings, Glutes, Lower Back",
+    "equipment": "dumbbell",
+    "difficulty": "Intermediate",
+    "description": "Focus on pushing your hips back, rather than just bending forward. Keep the dumbbells close to your legs throughout the movement. Maintain a neutral spine; do not round your back.",
+    "instructions": [
+      "Stand with feet hip-width apart, a dumbbell in each hand in front of your thighs.",
+      "Keeping a slight bend in your knees and a straight back, hinge at your hips.",
+      "Lower the dumbbells towards the floor, feeling a stretch in your hamstrings.",
+      "Stop when you feel a good stretch or before your back rounds, then squeeze your glutes to return to standing."
+    ],
+    "gifUrl": "",
+    "videoUrl": ""
+  },
+  {
+    "id": "ex_cable_triceps_pushdown_zkd",
+    "name": "Cable Triceps Pushdown",
+    "bodyPart": "arms",
+    "target": "Triceps",
+    "equipment": "cable, machine",
+    "difficulty": "Intermediate",
+    "description": "Keep your elbows stationary and close to your body to isolate the triceps. Maintain a strong core to prevent body sway. Ensure a full range of motion, from stretched triceps to full extension.",
+    "instructions": [
+      "Stand facing a cable machine, grasp the straight bar or rope attachment with an overhand grip.",
+      "Keep your elbows tucked into your sides and lean slightly forward.",
+      "Push the bar/rope down by extending your forearms, focusing on squeezing your triceps.",
+      "Bring the bar down until your arms are fully extended, but don't lock your elbows.",
+      "Slowly allow the weight to return to the starting position, controlling the eccentric."
+    ],
+    "gifUrl": "",
+    "videoUrl": ""
+  },
+  {
+    "id": "ex_plank_omx",
+    "name": "Plank",
+    "bodyPart": "waist",
+    "target": "Core (Abdominals, Obliques)",
+    "equipment": "body weight",
+    "difficulty": "Intermediate",
+    "description": "Focus on keeping your back flat and neck neutral. Engage your entire core, not just your abs. If 60 seconds is too long, start with 30 seconds and gradually increase duration.",
+    "instructions": [
+      "Start in a push-up position, then lower down onto your forearms.",
+      "Ensure your body forms a straight line from head to heels.",
+      "Keep your core tight, squeezing your glutes and bracing your abs.",
+      "Avoid letting your hips sag or rise too high."
+    ],
+    "gifUrl": "",
+    "videoUrl": ""
+  }
+]
